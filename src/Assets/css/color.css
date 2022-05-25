@@ -1,0 +1,1676 @@
+/*Cart Page Css*/
+    .rcs_cart_main {
+        background-color: #fff;
+    }    
+    .rcs_cart_content ul li span:hover {
+        color: #000;
+    }
+    .rcs_cart_bottom_content {
+        background-color: #fff;
+    }  
+    .rcs_cart_bottom_content .css-cio0x1-MuiInputBase-root-MuiFilledInput-root:after,.rcs_cart_bottom_content .css-1kuvi62-MuiInputBase-root-MuiFilledInput-root:after {
+        border-bottom: 2px solid #ccc !important;
+    }
+    .rcs_cart_bottom_content .css-au3a9q-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+        color: #000 !important;
+    } 
+    .rcs_cart_bottom_content .css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked {
+        color: #000 !important;
+    } 
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 hr.MuiDivider-root {
+        background-color: #000 !important;
+    }  
+    .rcs_cart_bottom_content .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+        color: #000 !important;
+    }
+    .rcs_withoutlogin.col a {
+        color: #000;
+    }     
+    .rcs_cart_bottom_content_last {
+        background-color: #fff;
+    } 
+    .rcs_alert_danger a {
+        color: #6e1b23;
+    }
+    .rcs_alert_danger svg {
+        color: #6e1b23 !important;
+    }
+    .card.shadow {
+        box-shadow: 0 5px 20px rgb(0 0 0 / 0%) !important;
+    }
+    .card span {
+        color: #383838;
+        background-color: transparent;
+    }
+    .card span:hover,.card span:active,.card span:focus {
+        color: #000 !important;
+    }
+    .card.shadow:hover {
+        box-shadow: 0 5px 20px rgb(0 0 0 / 8%) !important;
+    }
+    .rcs_cart_bottom_content_last ul li img {
+        border: 1px solid rgba(0,0,0,0.075);
+    } 
+    .rcs_cart_main {
+        border: 1px solid rgba(0, 0, 0, 0.125);
+    }  
+    .rcs_cart_bottom_content {
+        border: 1px solid rgba(0, 0, 0, 0.125);
+    } 
+/*Cart Page Css*/
+/*Checkout page css*/
+    .rcs_checkout_content .Mui-focused,.rcs_checkout_content .Mui-focused .MuiOutlinedInput-notchedOutline {
+        color: #000 !important;
+        border-color: #ccc !important;
+    }
+    #checkout-order-summary-heading {
+        background: white;
+    }
+    .rcs_add_box {
+        background: #fff;
+        border: 1px solid #ccc;
+    }
+    .rcs_address_btn {
+        background-color: #dfdfdf !important;
+        color: #000 !important;
+    }
+    .rcs_address_btn {
+        background: #f1f1f1;
+        color: #000;
+    }    
+    .rcs_checkout_checkbox .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .rcs_checkout_checkbox .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+        color: #000 !important;
+    }
+/*Checkout page css*/
+/*cart page server css*/
+    .rcs_cart_bottom_content .css-1a5icme.Mui-checked {
+        color: #000 !important;
+    }
+    .rcs_cart_bottom_content .css-q44vsa::after,.rcs_cart_bottom_content .css-1spygrr::after {
+        border-bottom: 2px solid #ccc !important;
+    }
+    .rcs_cart_bottom_content .MuiFormLabel-root.Mui-focused {
+        color: #000 !important;
+    } 
+    .rcs_cart_bottom_content .css-1a5icme {
+        color: #000 !important;
+    }    
+    .rcs_checkout_checkbox .css-zun73v.Mui-checked, .rcs_checkout_checkbox.css-zun73v.MuiCheckbox-indeterminate {
+        color: #000 !important;
+    }
+    .rcs_top_select .css-zun73v.Mui-checked, .rcs_top_select .css-zun73v.MuiCheckbox-indeterminate {
+        color: #000 !important;
+    } 
+/*cart page server css*/
+/*Custome page css*/
+    .gs_scroll_top,.gs_scroll_top:focus,.gs_scroll_top:hover,.gs_scroll_top:active {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        box-shadow: 0 5px 19px rgb(34 58 115 / 50%) !important;
+    }
+    .rcs_fill_button, .rcs_fill_button:hover, .rcs_fill_button:active, .rcs_fill_button:focus {
+        background-color: #000000 !important;
+        border-color: #000000 !important;
+        color: #fff !important;
+    }
+    .rcs_fill_button::before {
+        border: 1px solid #fff;
+    }
+    .rcs_fill_light_button {
+        background-color: #223a731a !important;
+        border-color: #e8ebf1 !important;
+        color: #000 !important;
+    }
+    .rcs_outline_button {
+        background-color: transparent !important;
+        border-color: #223a73 !important;
+        color: #000 !important;
+    }
+    .rcs_blank_button {
+        background-color: transparent !important;
+        border-color: transparent !important;
+        color: #000 !important;
+    }
+    .rcs_top_heading h2,.rcs_top_heading h1 {
+        color: #212123;
+    }
+    .rcs_filter_wrapper {
+        background: white;
+    }    
+    .rcs_filter_loader {
+        background: white;
+        box-shadow: 0 0 50px #ccc;
+    }
+    .rcs_filter_loader1 {
+        background: white;
+        box-shadow: 0 0 50px #ccc;
+    }
+    .rcs_filter_loader svg,.rcs_filter_loader1 svg{
+        color:#000;
+    }
+    .rcs_filter_prod_wrapper {
+        background: white;
+    }
+    .rcs_filter_prod_loader {
+        background: white;
+        box-shadow: 0 0 50px #ccc;
+    }
+    .rcs_filter_prod_loader svg{
+        color:   #000;
+    }
+    .modal-header {
+        background-color: rgba(0,0,0,0.1);
+        padding: 10px 20px 5px;
+    }
+    .modal-title.h4 {
+        color: #212123;
+    }
+    .rcs_cancel_button,.rcs_cancel_button:hover,.rcs_cancel_button:active,.rcs_cancel_button:focus {
+        background-color: #d2d2d2 !important;
+        border-color: #a5a5a5 !important;
+        color: #252525 !important;        
+    }
+    .rcs_cancel_button::before {
+        border: 1px solid #a5a5a5;
+    }
+    .rcs_save_button,.rcs_save_button:hover,.rcs_save_button:active,.rcs_save_button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }
+    .rcs_save_button::before {
+        border: 1px solid white;
+    }
+    .gs_loader1 .MuiCircularProgress-root {
+        color: #000;
+    }
+    .gs_loader1 {
+        background-color: rgba(0,0,0,0.5);
+    }
+    .swal-button,.swal-button:hover,.swal-button:active,.swal-button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }
+    .swal-button::before {
+        border: 1px solid white;
+    }
+    .swal-footer {
+        border-top: 1px solid #ccc;
+    }
+    .swal-title {
+        color: #000 !important;
+    }
+    .swal-icon--error {
+        border-color: #ff0000;
+    }
+    .swal-icon--error__line {
+        background-color: #ff0000;
+    }
+    .rcs_loader {
+        background-color: transparent;
+    }
+/*Custome page css*/
+/*Education page css*/
+    .rcs_education_cotnent_inner {
+        border: 1px solid transparent !important;
+    }
+    .rcs_education_cotnent_inner .border.img-circle {
+        border: 3px solid #212123 !important;
+    }
+    .rcs_education_cotnent_inner a {
+        color: #000;
+    }
+    .rcs_education_cotnent_inner:hover {
+        border: 1px solid rgba(0,0,0,0.075) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+        background-color: #fff;
+    }    
+    .rcs_education_cotnent_inner:hover .border.img-circle {
+        border-color: #000 !important;
+    }
+    .rcs_education_cotnent_inner:hover .border.img-circle i{
+        color: #000 !important;
+    }
+    .rcs_education_cotnent_inner h2 {
+        color: #212123;
+    }
+    .rcs_education_cotnent_inner p {
+        color: #212123;
+    }
+    .rcs_education_button,.rcs_education_button:hover,.rcs_education_button:active,.rcs_education_button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    } 
+    .rcs_education_button::before {
+        border: 1px solid white;
+    } 
+    .rcs_education_cotnent_pages h2 {
+        color: #212123;
+    }
+    .rcs_education_cotnent_pages h4 a,.rcs_education_cotnent_pages ul li a,.rcs_education_cotnent_pages p a {
+        color: #000;
+    } 
+    .rcs_education_cotnent_pages h4 a:hover,.rcs_education_cotnent_pages ul li a:hover,.rcs_education_cotnent_pages p a:hover {
+        color: #000;
+    } 
+    .rcs_education_cotnent_pages_metal .MuiSvgIcon-root.rcs_color_yellow {
+        fill: #dcbf5f!important;
+    }
+    .rcs_education_cotnent_pages_metal .MuiSvgIcon-root.rcs_color_white {
+        fill: #ddd !important;
+    }
+    .rcs_education_cotnent_pages_metal .MuiSvgIcon-root.rcs_color_rose {
+        fill: #eab7bc !important;
+    }
+    .rcs_education_cotnent_pages_metal .MuiSvgIcon-root.rcs_color_other {
+        fill: #d0d0d0 !important;        
+    }
+    .rcs_education_cotnent_pages_metal .css-1gsv261 {
+        border-color: rgba(0, 0, 0, 0.12);
+    }
+    .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root:hover {
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    } 
+    .rcs_education_cotnent_pages_gemstone .css-h4sz55.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1gsv261,.rcs_education_cotnent_pages_gemstone .css-1gsv261 {
+        border-color: rgba(0, 0, 0, 0.12);
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-aym9vq-MuiButtonBase-root-MuiTab-root:hover {
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }   
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+        color: #000 !important;
+        background-color: #f7f7f7;
+        border: 1px solid rgba(0,0,0,0) !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_gemstone_content h2 {
+        color: #212123;
+    }    
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1gsv261 {
+        border-color: rgba(0, 0, 0, 0.12);
+    }
+    .rcs_education_diamond_carat .brackets .col::before, .rcs_education_diamond_carat .brackets .col-3::before {
+        border-left: 2px solid rgba(0,0,0,0.075);
+    }
+    .rcs_education_diamond_carat .brackets .bracket {
+        border-top: 2px solid rgba(0,0,0,0.075);
+    }
+    .rcs_education_diamond_carat .brackets .bracket::before {
+        border-left: 2px solid rgba(0,0,0,0.075);
+    }
+    .rcs_education_diamond_carat .brackets .bracket::after {
+        border-left: 2px solid rgba(0,0,0,0.075);
+    }
+    .rcs_education_diamond_cut .list-group-box, .rcs_education_diamond_clarity .list-group-box {
+        background: #000;
+        color: #000000;
+    }
+    .rcs_education_diamond_cut h4,.rcs_education_diamond_clarity h4 {
+        color: #212123;
+    }
+    .rcs_education_diamond_cut p,.rcs_education_diamond_clarity p {
+        color: #212123;
+    }
+    .rcs_education_diamond_cut .table .active, .rcs_education_diamond_clarity .table .active {
+        background: transparent;
+        border-left: 15px solid #000;
+        border-right: 15px solid transparent;
+        border-top: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+    }
+    .rcs_education_diamond_cut .table .rcs_table_text, .rcs_education_diamond_clarity .table .rcs_table_text {
+        color: #000;
+    }
+    .rcs_education_diamond_cut .table .disabled, .rcs_education_diamond_clarity .table .disabled {
+        background-color: #ededed;
+        color: rgba(0,0,0,0.35);
+    }
+    .rcs_education_diamond_color .color-img {
+        border: 2px solid transparent;
+    }
+    .rcs_education_diamond_color .bracket {
+        border-left: 2px solid rgba(0,0,0,0.075);
+        border-right: 2px solid rgba(0,0,0,0.075);
+        border-bottom: 2px solid rgba(0,0,0,0.075);
+    }
+    .rcs_education_diamond_color h5 {
+        color: #212123;
+    }
+    /*Education Server css*/    
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5 {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }    
+    .rcs_education_cotnent_pages_metal .css-1tnnsql.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }    
+    .rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }    
+    .rcs_education_cotnent_pages_metal .css-1tnnsql {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1q2h7u5 {
+        color: #000 !important;
+        background-color: #f7f7f7;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1q2h7u5, .rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+        color: #000 !important;
+        background-color: #f7f7f7;
+        border: 1px solid rgba(0,0,0,0) !important;
+    }
+    .rcs_education_cotnent_pages_metal .css-1tnnsql.Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    /*Education Server css*/    
+    .rcs_education_cotnent_pages_gemstone .Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        color: #000 !important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.175) !important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+/*Education page css*/
+/*Footer page css*/
+    .rcs_footer {
+        background: #4a4a4a;
+    }
+    .rcs_footer {
+        background: #4a4a4a;
+    }
+    .main-footer2 h2 {
+        color: #fff;
+    }
+    .contact-foter2 li span {
+        color: #c2c2c2 !important;
+    }
+    .rcs_footer {
+        background: #151414;
+    }
+    .main-footer2 h2 {
+        color: #fff;
+    }
+    ul.list-none.contact-foter2 a {
+        color: #c2c2c2;     
+    }
+    footer .social-networks>a {
+        color: #c2c2c2 !important;
+    }
+    .rcs_bglight {
+        background-color: #fff;
+    }
+    .footer-section .social-networks > a {
+        color: #c2c2c2 !important;
+    }
+    p.small.small.rcs_copyright {
+        color: #c2c2c2;
+    }
+    .bottom-icon-bars {
+        background: #fff;
+    }
+    .bottom-icon-bars li a {
+        color:#000;
+    }
+    .customer-rating-floater-div {
+        background: white;
+        border: 1px solid #e0e0e0;
+        box-shadow: 0 0 30px rgba(0,0,0,0.1);
+    }
+    .customer-rating-floater-div i {
+        color: #ead231;
+    }
+    .bottom-icon-bars.btmcopy {
+        background: transparent;
+    }
+    /*Footer Responsive css*/
+    @media (min-width: 320px) and (max-width: 991px){
+        .gs_footer_content .css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+            background-color: transparent !important;
+            color: rgb(255, 255, 255) !important;
+            border-bottom: 1px solid #eee;
+        }
+        .gs_footer_content .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+            background-color: rgba(0,0,0,1);
+            color: #fff !important;
+        }
+        .gs_footer_content .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded .css-i4bv87-MuiSvgIcon-root {
+            color: #fff;
+        }
+        .gs_footer_content .css-i4bv87-MuiSvgIcon-root {
+            color: #fff;
+        }
+        ul.list-none.contact-foter2 a,.contact-foter2 li span {
+            color: #000 !important;
+        }
+        .gs_footer_content .css-67l5gl {
+            background-color: transparent !important;
+            color: #fff !important;
+            border-bottom: 1px solid #eee;
+        }
+        .gs_footer_content .css-1iji0d4.Mui-expanded {
+            background-color: rgba(0,0,0,0.3);
+        }
+        .gs_footer_content svg {
+            color: rgb(255, 255, 255) !important;
+        }     
+        section.rcs_mobile_footer_section {
+            background: black;
+            padding-top: 40px;
+        }
+        .gs_footer_content .css-17o5nyn.Mui-expanded {
+            margin: 0;
+            color: white;
+        }
+        .gs_footer_content p.css-9l3uo3 {
+            color: white;
+        }
+        .gs_footer_content p.css-9l3uo3 {
+            color: white;
+        }
+    }
+    /*Footer Responsive css*/
+/*Footer page css*/
+/*Gift Guide page css*/
+    .rcs_how_btn {
+        background: #212123 !important;
+        color: #fff !important;    
+    }
+    .rcs_gift_guide_content h1,.rcs_gift_guide_content h2,.rcs_gift_guide_section1 h6 {
+        color: #212123;
+    }
+/*Gift Guide page css*/
+/*Header page css*/
+    .rcs_top_header {
+        background-color: #000;
+        border-color: #000;
+    }
+    .rcs_top_head_content p {
+        color: #fff;
+    }
+    .rcs_top_head_content p a {
+        color: #000;
+    }
+    .rcs_top_head_content span {
+        color: #a9a9a9;
+    }
+    .rcs_left_side ul li a {
+        color: #212123;
+    }    
+    .rcs_left_side ul li {
+        color: #212123;
+    }
+    .rcs_left_side ul li i {
+        background-color: #000;
+        color: #fff;
+    }
+    .rcs_right_side ul li {
+        color: #212123;
+    }
+    .rcs_right_side ul li i {
+        background-color: #000;
+        color: #fff;
+    }
+    #rcs_menu_header_top ul h6 a::after {
+        background-color: #000 !important;
+    } 
+    /* .slick-slider.rcs_slider_img {
+        border-top: 1px solid #e0e0e0;
+    } */
+    span.rcs_cart_badge, span.rcs_wish_badge {
+        background-color: #000;
+        color: #fff;
+    }
+    .rcs_search_bar input {
+        background: #fbfbfb !important;
+        border: 1px solid #ebebeb !important;
+    }
+    .rcs_right_side ul li .MuiInputBase-input {
+        border: 1px solid #ccc;
+    }
+    /* .rcs_menu {
+        border-bottom: 1px solid #ccc;
+        box-shadow: 0 5px 5px -5px rgb(0 0 0 / 5%);
+    } */
+    #rcs_menu_header_top ul span a,#rcs_menu_header_top ul h6 a {
+        color: #212123;
+        background-color: transparent;
+    }
+    #rcs_menu_header_top ul li.current-menu-item {
+        background:#ddd
+    }
+    #rcs_menu_header_top ul li span a:hover {
+        background:#000;
+        color: #fff;
+    }
+    #rcs_menu_header_top ul ul {
+        background:#fff;
+    }
+    #rcs_menu_header_top ul h6 a:hover {
+        color: #000;
+    }
+    /*Login modal css*/
+    .rcs_login_modal .modal-header {
+        background-color: transparent;
+    }
+    .rcs_login a {
+        color: #666;
+    }
+    .rcs_login a:hover {
+        color: #666;
+    }
+    .rcs_signup_link p {
+        color: #666;
+    }    
+    .rcs_signup_link a {
+        color: #474747;
+    }
+    .rcs_check_condition span {
+        color: #666;
+    }    
+    .rcs_check_condition span a {
+        color: #000;
+    }
+    .rcs_forgot_msg {
+        color: #999;
+    }
+    /*Login modal css*/ 
+    .rcs_dropdown_menu {
+        background-color: #fff;
+    }    
+    /*Register Page Css*/
+    .rcs_account_content_left {
+        padding: 20px;
+        border-radius: 3px;
+    }
+    .rcs_account_content_left .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+        color: #000;
+    }
+    .rcs_account_content_left .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root:hover {
+        background-color: rgb(206 176 103 / 4%);
+    }
+    .rcs_account_content_left .MuiFormControl-root {
+        width: 100%;
+        margin-bottom: 15px;
+    } 
+    .rcs_account_content_left .Mui-focused,.rcs_account_content_left .Mui-focused .MuiOutlinedInput-notchedOutline {
+        color: #000 !important;
+        border-color: #ccc !important;
+    }
+    .rcs_custom_padding {
+        padding: 0 5px !important;
+    }
+    .rcs_register_content {
+        border-top: 1px solid #ccc;
+    }
+    .alert.alert-info.text-left {
+        margin-top: 20px;
+        background-color: #e8f6f8;
+        border-color: #c5e8ed;
+        padding: 20px;
+    }
+    .alert.alert-info.text-left span {
+        padding-left: 5px;
+        margin-top: -2px;
+    }
+    .rcs_signup_link_error p {
+        color:red;
+    }
+    /*Header Responsive css*/      
+    @media (min-width: 320px) and (max-width: 991px){
+        .rcs_extra_link a {
+            color: #000;
+            border-top: 1px solid #e0e0e0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .rcs_mobile_menu .MuiCollapse-entered {
+            border-top: 1px solid #e0e0e0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .rcs_mobile_menu .MuiAccordionSummary-root.Mui-expanded {
+            border-top: 1px solid #e0e0e0;
+            background-color: #e5e5e5;
+        }
+        .rcs_mobile_inner_menu .MuiCollapse-entered {
+            border-top: 1px solid #e0e0e0 !important;
+            border-bottom: 1px solid #e0e0e0 !important;
+        }
+        button.rcs_blank_button.rcs_after_login_button.btn.btn-primary {
+            background-color: #000 !important;
+            color: #fff !important;
+        }
+    }
+    @media (min-width: 992px) and (max-width: 1024px){
+        .rcs_extra_link a {
+            color: #000;
+            border-top: 1px solid #e0e0e0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .rcs_mobile_menu .MuiCollapse-entered {
+            border-top: 1px solid #e0e0e0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .rcs_mobile_menu .MuiAccordionSummary-root.Mui-expanded {
+            border-top: 1px solid #e0e0e0;
+        }
+        .rcs_mobile_inner_menu .MuiCollapse-entered {
+            border-top: 1px solid #e0e0e0 !important;
+            border-bottom: 1px solid #e0e0e0 !important;
+        }
+        button.rcs_blank_button.rcs_after_login_button.btn.btn-primary {
+            background-color: #000 !important;
+            color: #fff !important;
+        }
+    }
+    /*Header Responsive css*/
+/*Header page css*/
+/*Home page css*/
+    .rcs_hero_img h1 {
+        color: #000000;
+    }
+    .rcs_hero_img button,
+    .rcs_hero_img p {
+        color: #000;
+    } 
+    .rcs_hero_img button {
+        background-color: var(--main-primary-color) !important;
+        color: #fff!important;
+        border: 2px solid var(--main-primary-color) !important;
+    }
+    .rcs_hero_img button:active,
+    .rcs_hero_img button:focus,
+    .rcs_hero_img button:hover {
+        background-color: #000!important;
+        color: #fff!important;
+        border: 2px solid #000!important;
+    }
+    .rcs_testimonial_inner .slick-next {
+        background-color: #fff;
+        border: 1px solid #ddd !important;
+    }
+    .rcs_testimonial_inner .slick-prev {
+        background-color: #fff;
+        border: 1px solid #ddd !important;
+    }
+    .rcs_philan_content .slick-next {
+        background-color: #fff;
+        border: 1px solid #ddd !important;
+    }
+    .rcs_philan_content .slick-prev {
+        background-color: #fff;
+        border: 1px solid #ddd !important;
+    }
+    .js_belowslider h1 {
+        color: #212123;
+    }
+    .js_belowslider button {
+        background: #212123 !important;
+        color: #fff;
+    }
+    .rcs_how_btn:hover {
+        background: #212123;
+        color: #c7c7c8;
+    }
+    .rcs_featured_list a {
+        border: 1px solid rgba(0,0,0,0.075) !important;
+        border-color: #212123 !important;
+    }
+    .rcs_main_btn {
+        background: #212123 !important;
+    }
+    .rcs_main_btn::after {
+        border: 1px solid white;
+    }
+    .rcs_main_btn2 {
+        background: #212123 !important;
+    }
+    .rcs_main_btn2::after {
+        border: 1px solid white;
+    }
+    p.rcs_join {
+        color: #000;
+    }
+    .rcs_test_star svg {
+        color: #ead231;
+    }
+    .slick-slider.rcs_testimonial_inner .rcs_testi_item {
+        color: #777!important;
+        background-color: #fafafa!important;
+        border: 1px solid #ededed!important;
+    }
+    .rcs_testimonials {
+        background: #ffffff !important;
+    }
+    .rcs_testimonial_inner .slick-dots li button:before {
+        color: #000;
+    }
+    .slick-slider.rcs_testimonial_inner .slick-dots button {
+        border: 2px solid #fafafa !important;
+        background: #fff;
+    }
+    .rcs_testi_user h4 {
+        color: #000;
+    }
+    .rcs_collection a {
+        background: #ececec;
+    }
+    .rcs_philan {
+        background-color: #f1f1f1;
+    }
+    .rcs_newsletter {
+        background: #000;
+    }
+    .rcs_news_content1 h2 {
+        color: #000;
+    }
+    .rcs_news_content h2 {
+        color: #fff;
+    }
+    .gs_newsletter_input_section input,.gs_newsletter_input_section input:focus,.gs_newsletter_input_section input:active,.gs_newsletter_input_section input:hover {
+        background-color: transparent;
+        border-color: #fff;
+        color: #fff;
+    }
+    .gs_newsletter_input_section button#button-addon2 {
+        background-color: #fff !important;
+        border-color: #fff !important;
+        color: #000 !important;
+    }
+    .gs_newsletter_input_section button#button-addon2:hover,.gs_newsletter_input_section button#button-addon2:active,.gs_newsletter_input_section button#button-addon2:focus {
+        background-color: #000;
+        color: #fff;
+    }
+    .gs_newsletter_input_section button#button-addon2::before {
+        border: 1px solid #a5a5a5;
+    }
+    .rcs_news_content p {
+        color: #fff;        
+    }
+    .rcs_news_content p strong {
+        color: #000;
+    }
+    .rcs_slider_img .slick-dots li button {
+        background: #000 !important;
+    }
+    .gs_newsletter_content p a {
+        color: #fff;
+    }
+/*Home page css*/
+/*Invoice page css*/
+    .invoice-wrapper {
+        background-color: white;
+        -webkit-box-shadow: #e6e6e6 0px 0px 14px 3px;
+        box-shadow: #e6e6e6 0px 0px 14px 3px;
+    }
+    .theme-invoice-1 .invoice-header {
+        background-color: #f8f8f8;
+    }
+    .theme-invoice-1 .invoice-header .upper-icon {
+        background-color: #000;
+    }
+    .theme-invoice-1 .invoice-header h4 {
+        color: #646464;
+    }
+    .theme-invoice-1 .invoice-header .header-content h2 {
+        color: #222222;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom {
+        border-top: 1px solid #dddddd;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul li strong {
+        color: #000;
+        text-transform: capitalize;
+    }
+    .invoice-wrapper .invoice-body .table thead th {
+        color: black;
+        border-bottom: 1px solid #000 !important;
+    }
+    .invoice-wrapper .invoice-body .table tbody th {
+        color: #646464;
+    }
+    .invoice-wrapper .invoice-body .table tfoot {
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+    .invoice-wrapper .invoice-body .table td {
+        color: #646464;
+    }
+    .rcs_pdf {
+        background-color: #000 !important;
+        color: #fff !important;
+        border: 1px solid #000 !important;
+    }
+    .rcs_print {
+        background-color: transparent !important;
+        color: #000 !important;
+        border: 1px solid #000 !important;
+    }
+/*Invoice page css*/
+/*Order Success page css*/
+    .rcs_order_success {
+        background-color: #fff;
+    }
+    .rcs_order_success h1{
+        color: #222;
+    }
+    .rcs_order_success p {
+        color: #777;
+    }
+/*Order Success page css*/
+/*Masonary page css*/
+    .my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
+        background: grey;
+    }
+/*Masonary page css*/
+/*MjStatic page css*/
+    .rcs_customDesgin_content h2,.rcs_customDesgin_content h1 {
+        color: #212123;
+    }
+    .rcs_customDesgin_content p {
+        color: #212123;        
+    }
+    .rcs_static_button,.rcs_static_button:hover,.rcs_static_button:active,.rcs_static_button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }  
+    .rcs_static_button::before {
+        border: 1px solid white;
+    }
+    .rcs_customDesign_section {
+        background-color: #f3f3f3;
+    }
+    .rcs_customDesgin_content h3 {
+        color: #212123;
+    }
+    .rcs_financing_content h1,.rcs_financing_content h2 {
+        color: #212123;
+    }
+    .rcs_financing_content h3 {
+        color: #212123;
+    }
+    .rcs_appointment .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+        color: #000;
+    }
+    .rcs_appointment .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root:hover {
+        background-color: rgb(206 176 103 / 4%);
+    } 
+    .rcs_appointment .Mui-focused,.rcs_appointment .Mui-focused .MuiOutlinedInput-notchedOutline {
+        color: #000 !important;
+        border-color: #ccc !important;
+    }
+    .rcs_charities_content h1 {
+        color: #212123;
+    }
+    .rcs_testimonial_content {
+        background-color: #ededed;
+    }
+    .rcs_test_cotnent span {
+        color: #000;
+    }
+    .rcs_testimonial_content .media-body p {
+        color: #212123;
+    }
+    .rcs_testimonial_content .media-body label{
+        color: #000 !important;
+    }
+    .rcs_testimonial_section h1 {
+        color: #212123;
+    }    
+    .rcs_testimonial_section h6 {
+        color:#212123;
+    }
+    .rcs_test_cotnent span.rcs_user_name {
+        background-color: #000;
+        color: #fff;
+    }
+    .rcs_contact_content h1 {
+        color: #212123;
+    }
+    ul.rcs_content_address li h5,.rcs_contact_content h4 {
+        color: #212123;
+    }
+    ul.rcs_content_address li a {
+        color: #000;
+    }
+    .rcs_free_diamond_content h1 {
+        color: #212123;
+    }
+    .rcs_free_diamond_content h2 {
+        color: #212123;
+    }
+    .rcs_warranty_guarantees_content h2,.rcs_warranty_guarantees_content h1 {
+        color: #212123;
+    }
+    .rcs_military_discount_content h2,.rcs_military_discount_content h1 {
+        color: #212123;
+    }
+    .rcs_privacy_content h1 {
+        color: #212123;
+    }
+    .rcs_privacy_content h2 {
+        color: #212123;
+    }
+    .rcs_privacy_content p {
+        color: #212123;
+    }
+    .rcs_privacy_content a {
+        color: #000;
+    }
+    .rcs_term_condition_content h1,.rcs_term_condition_content h2 {
+        color: #212123;
+    }
+    .rcs_term_condition_content p {
+        color: #212123;
+    }
+    .rcs_term_condition_content a {
+        color: #000;
+    }
+    .rcs_mission_vision_content h1,.rcs_mission_vision_content h2 {
+        color: #212123;
+    }
+    .rcs_mission_vision_content p {
+        color: #212123;
+    }
+    .rcs_mission_vision_content a {
+        color: #000;
+    }
+    .rcs_sell_your_jewelry_content h2 {
+        color: #212123;
+    }
+    .rcs_sell_your_jewelry_content h1,.rcs_sell_your_jewelry_content h3 {
+        color: #212123;
+    }
+    .rcs_sell_your_jewelry_content p {
+        color: #212123;
+    }
+    .rcs_insurance_content h2,.rcs_insurance_content h1 {
+        color: #212123;
+    }
+    .rcs_insurance_content p {
+        color: #212123;
+    }
+    .rcs_about_button,.rcs_about_button:hover,.rcs_about_button:active,.rcs_about_button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }  
+    .rcs_about_button::before {
+        border: 1px solid white;
+    }
+    .rcs_story_content h2 {
+        color: #212123;
+    }
+    .rcs_story_content p {
+        color: #212123;
+    }
+    .rcs_story_bg {
+        background-color: #f3f3f3
+    }
+    .rcs_indian_jewelery_slider_inner .slick-prev {
+        background-color: #fff;
+    }
+    .rcs_indian_jewelery_slider_inner .slick-next {
+        background-color: #fff;
+    }
+    .rcs_indian_jewelery_slider_item i {
+        background-color: #d2d2d2;
+    }    
+    .rcs_indian_jewelery_slider_item h3 {
+        color: #212123;
+    }    
+    .rcs_indian_jewelery_slider_item p {
+        color: #212123;
+    }
+    .rcs_testimonials1 {
+        background: #fff !important;
+    }
+    .rcs_education_cotnent_pages_blog .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_blog .css-1q2h7u5.Mui-selected {
+        color: #000!important;
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,.175)!important;
+        box-shadow: 0 0 20px rgb(0 0 0 / 8%);
+    }
+    .rcs_education_cotnent_pages_blog .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_blog .css-1q2h7u5 {
+        color: #000!important;
+        background-color: #f7f7f7;
+    }
+    .rcs_media_details a {
+        color: #000;
+    }
+    .rcs_education_cotnent_pages_blog .css-1aquho2-MuiTabs-indicator,.rcs_education_cotnent_pages_blog .css-ttwr4n {
+        background-color: transparent;
+    }
+/*MjStatic page css*/
+/*Myaccount page css*/
+    .rcs_breadcrumb li a, .rcs_breadcrumb li p {
+        color: #212123;
+    }
+    .rcs_breadcrumb li p {
+        color: #918f8f;
+    }
+    .rcs_my_account_user ul li span {
+        background: #000;
+        color: #fff;
+    }
+    .rcs_my_account_user {
+        border-right: 1px solid #ccc;
+    }
+    .rcs_tab_section .css-1gsv261 {
+        border-color: rgba(0, 0, 0, 0.12);
+    }
+    .rcs_tab_section .css-1aquho2-MuiTabs-indicator {
+        background-color: #000;
+    }
+    .rcs_tab_section .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        color: #000;
+    }
+    .rcs_tab_content_left .Mui-focused,.rcs_tab_content_left .Mui-focused .MuiOutlinedInput-notchedOutline {
+        color: #000 !important;
+        border-color: #ccc !important;
+    }
+    .rcs_acc_button,.rcs_acc_button:hover,.rcs_acc_button:active,.rcs_acc_button:focus {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }    
+    .rcs_acc_button::before {
+        border: 1px solid white;
+    }
+    h2.rcs_account_heading {
+        color: #212123;
+    }
+    .rcs_wislist_section {
+        border-top: 1px solid #ccc;
+    }
+    .rcs_tab_content_left {
+        border: 1px solid #ccc;
+    }
+    .rcs_wislist_section table tbody tr td a {
+        color: #000;
+    }
+    .rcs_tab_content_right {
+        border: 1px solid #ccc;
+    }
+    ul.rcs_add_btn li span {
+        color: #000;
+    }
+    .rcs_tab_content_left .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+        color: #000;
+    }
+    .rcs_tab_content_left .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root:hover {
+        background-color: rgb(206 176 103 / 4%);
+    }
+    ul.rcs_add_btn li span.rcs_delete {
+        color: red;
+    }
+    .table tbody tr td .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+        color: #000 !important;
+    }
+    .rcs_add_address .Mui-focused,.rcs_add_address .Mui-focused .MuiOutlinedInput-notchedOutline {
+        color: #000 !important;
+        border-color: #ccc !important;
+    }
+    .rcs_wislist_content {
+        border: 1px solid #ccc;
+    }
+    .rcs_sku {
+        color: #a2a2a2;
+        background: whitesmoke;
+    }
+    p.rcs_wish_price {
+        color: #474747;
+    }
+    .rcs_wislist_content button {
+        background: #f0f0f0;
+        color: #777777;
+    }
+    .rcs_tab_section .css-1gsv261 {
+        border-color: rgba(0, 0, 0, 0.12) !important;
+    }
+    .rcs_tab_section .css-1q2h7u5.Mui-selected {
+        color: #000;
+    }
+    .rcs_tab_section .css-ttwr4n {
+        background-color: #000;
+    }
+/*Myaccount page css*/
+/*Product Details page css*/
+    .image-gallery-thumbnail.active, .image-gallery-thumbnail:focus,.image-gallery-thumbnail:hover {
+        border: 2px solid #000 !important;
+    }
+    .image-gallery-thumbnail {
+        border: 2px solid transparent !important;
+    }   
+    .rcs_border_btn {
+        border: 1px solid rgb(158 158 158 / 50%) !important;
+        color: #474747 !important;
+    }
+    .rcs_wishlist_fill_icon {        
+        color: red;
+    }
+    .rcs_product_heading {
+        border-bottom: 1px solid #f2f2f2;
+    }   
+    .rcs_social ul li {
+        color: rgb(34 34 34);
+    }
+    .rcs_ring_style_type p {
+        color: #212123;
+    }
+    .rcs_rating_overall {
+        border: 1px solid #d2d2d2;
+    }
+    .rcs_rating_overall h2{
+        color: #000;
+    }
+    .rcs_rating_overall .rcs_out_of {
+        background-color: #ededed;
+        color: #000;
+    }
+    .rcs_rating_progress ul li .progress-bar {
+        background-color: #000 !important;
+    }
+    .rcs_rating_overall_star,.rcs_rating_overall_total {
+        background-color: #ededed;
+        border: 1px solid #d2d2d2;
+    }
+    .rcs_rating_overall_star h3,.rcs_rating_overall_total h3 {
+        color: #000;
+    }
+    .rcs_rating_overall_total p {
+        color: #212123;
+    }   
+    .rcs_product_specification_bottom_content {
+        background-color: #ededed;
+        border: 1px solid #d2d2d2;
+    }
+    .rcs_product_specification_top .container{
+        border-top: 1px solid #ececec;
+    }
+    .rcs_write_review {
+        border-top: 1px solid #ececec;
+    }
+    .rcs_write_review h2 { 
+        color: #212123;
+    }
+    span.rcs_inv_msg {
+        color: red;
+    }
+    .rcs_shipping_content.mt-2.mb-5 h2 {
+        color: #212123;
+    }
+    .rcs_add_address .rcs_details_ring_size.animate__shakeX .MuiSelect-root{
+        border: 1px solid red !important;
+        color:red !important;
+    }
+    .rcs_add_address .rcs_details_ring_size.animate__shakeX .MuiOutlinedInput-notchedOutline {
+        border-color: red !important;
+    }
+    .rcs_add_address .rcs_details_ring_size.animate__shakeX svg {
+        color:red !important;
+    }
+    .rcs_add_address .rcs_details_ring_size.animate__shakeX .MuiInputLabel-formControl {
+        color:red !important;
+        background-color: #fff !important;
+    }
+    .rcs_details_ring_size1  {
+            color:red !important;
+    }
+/*Product Details page css*/
+/*Product List page css*/
+    .rcs_category_title h1 {
+        color: #212123;
+    }
+    li.chakra-breadcrumb__list-item.css-18biwo:last-child {
+        color: #d2d2d2;
+    }
+    .rcs_view {
+        border-top: 1px solid #efeded;
+        border-bottom: 1px solid #efeded;
+    }
+    .rcs_view .active_grid {
+        color: #000;
+    }
+    .rcs_sorting_title a {
+        color: #000;
+    }
+    .color-overlay {
+        background: #212123;
+    }
+    .rcs_prod_info h2 {
+        color: #000;
+    }
+    button.rcs_wish_btn svg {
+        color: #000 !important;
+    }
+    .rcs_pagination .MuiPaginationItem-page.Mui-selected {
+        background-color: #000;
+        color: #fff;
+    }
+    .rcs_accordion p.MuiTypography-root.MuiTypography-body1.css-ahj2mt-MuiTypography-root {
+       color: #212123;
+    }
+    .rcs_filter_list a {
+        color: #000;
+    }    
+    .rcs_accordion .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiAccordion-root.MuiAccordion-rounded.MuiAccordion-gutters.rcs_accordion_item.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+       border-bottom: 1px solid #ccc !important;
+    }
+    .rcs_view svg:hover {
+        color: #000;
+    }
+    .rcs_accordion_sec .MuiAccordionSummary-expandIconWrapper:after {
+        color: #000;
+    }
+    .rcs_accordion_sec .MuiAccordionSummary-expandIconWrapper.Mui-expanded:after {
+        content: "-"!important;
+        font-size: 26px;
+        font-weight: 600;
+        color: #000;
+    }
+    .gs_accordion_sec .MuiAccordionSummary-expandIconWrapper .Mui-expanded:before {
+        color: #000;
+    }
+    .rcs_accordion .Mui-checked {
+        color: #000 !important;
+    }
+    .rcs_product_item_list img {
+        border: 1px solid #d2d2d2;
+    }
+    .rcs_dblock button {
+        color: #252525;
+    }
+    .rcs_filt_tags {
+        color: #383838;
+        background-color: #ededed;
+        border-color: #d2d2d2;
+    }
+    .filter_tgs_list .gs_filter_btn {
+        color: #383838;
+        background-color: #ededed;
+        border-color: #d2d2d2;
+        border: 1px solid #b9b6b6;
+    }
+    .rcs_dblock button:hover {
+        color: #000;
+    }
+    .rcs_prodlist_item {
+        border-top: 1px solid #d2d2d2 !important;
+    }
+    .rcs_hover_buttons button svg {
+        color: #212123 !important;
+    }
+    .hover-buttons button svg {
+        color: #000;
+    }
+    .rcs_sort_filter .form-select {
+        background-color: #fff;
+        border: 1px solid #ccc;
+    }
+    .rcs_accordion .css-67l5gl.Mui-expanded,.rcs_accordion .css-67l5gl {
+        border-bottom: 1px solid #ccc !important;
+    }
+    .rcs_accordion p.css-9l3uo3 {
+        color: #212123;
+    }
+    /*Product List Responsive page css*/
+    @media (min-width: 320px) and (max-width: 575px){
+        .rcs_product_grid button.rcs_wish_btn svg {
+            fill: #000;
+            color: #000;
+        }
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        .rcs_view div .rcs_mob_filter {
+            border-right: 1px solid #efeded;            
+        }
+    }    
+    @media (min-width: 768px) and (max-width: 991px) {        
+        .rcs_view div .rcs_mob_filter {
+            border-right: 1px solid #efeded;            
+        }
+    }
+    @media (min-width: 320px) and (max-width: 1199px) {
+        .rcs_view div .rcs_mob_filter {
+            border-right: 1px solid #efeded;            
+        }
+    }
+    /*Product List Responsive page css*/
+/*Product List page css*/
+/*Ring Setting page css*/
+    .erd-steps {
+        box-shadow: 0 3px 10px rgb(0 0 0 / 5%);
+    }
+    .steps-1-2-3-block > .step {
+        background-color: #f8f8f8;
+        border: 1px solid #ebebeb;
+    }
+    .steps-1-2-3-block.active > .step {
+        background: white;
+    }
+    .steps-1-2-3-block .step .title > a, .steps-1-2-3-block .step .title > span {
+        color: #2c2c2c;
+    }
+    .text-default {
+        color: #b0b0b0 !important;
+    }
+    .steps-1-2-3-block .step .rhombus, .steps-1-2-3-block .step .rhombus-top {
+        border-bottom: 20px solid #ebebeb;
+        border-top: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block .step .rhombus::before, .steps-1-2-3-block .step .rhombus-top::before {
+        border-top: 20px solid #ebebeb;
+        border-bottom: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block.active .step .rhombus-top {
+        border-bottom: 20px solid white;
+        border-top: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block.active .step .rhombus-top::before {
+        border-top: 20px solid white;
+        border-bottom: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block .step .rhombus-top {
+        border-bottom: 20px solid #f8f8f8;
+        border-top: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block .step .rhombus-top::before {
+        border-top: 20px solid #f8f8f8;
+        border-bottom: 0px solid transparent;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+    }
+    .steps-1-2-3-block:last-child > .step {
+        border-right: 1px solid #ebebeb;
+    }
+    .rcs_diamond_table th.MuiTableCell-root.MuiTableCell-head.css-13ausoj.MuiTableCell-alignCenter {
+        background: #c8c8c8;
+        color:#484848;
+    }
+    .grid-topbar-elem-list li .rcs_ring_setting_style, .grid-topbar-elem-list li .rcs_ring_setting_style i, .grid-topbar-elem-list li .rcs_ring_setting_style span {
+        color: #151515;
+    }
+    .big-ring-settings > li:hover > .rcs_ring_setting_style, .big-metal-types > li:hover > .rcs_ring_setting_style {
+        background: rgba(176,176,176, 0.075);
+    }
+    .big-ring-settings>li>.rcs_ring_setting_style, .big-metal-types>li>.rcs_ring_setting_style {
+        border: 1px solid transparent;
+    }
+    .rcs_ring_setting_style.rcs_ring_setting_style_active {
+        background: transparent;
+        border: 1px solid #000 !important;
+    }    
+    .big-ring-settings > li:hover > .rcs_ring_setting_style > i::before {
+        color: #000;
+    }
+    .big-metal-types > li.active .metal-type-circles > i {
+        box-shadow: 0 0 15px rgb(222 193 136 / 50%), inset 0 0 9px rgb(237 193 136 / 50%);
+        border-color: #000;
+    }
+    .metal-type-circles>i {
+        border: 5px solid red;
+    }
+    .big-metal-types > li.active > a > span > i {
+        text-shadow: 0 0 15px rgb(222 193 136 / 50%);
+    }
+    .metal-type-circles.all-types>i {
+        border: 4px solid #000;
+    }
+    .metal-type-circles.all-types>i+i {
+        border-color: #eab7bc;
+    }
+    .metal-type-circles.all-types>i+i+i {
+        border-color: #ddd;
+    }
+    .metal-type-circles.wg-types>i {
+        border-color: #ddd;
+    }
+    .metal-type-circles.yg-types>i {
+        border-color: #000;
+    }
+    .metal-type-circles.pl-types>i {
+        border-color: #d0d0d0;
+    }
+    .metal-type-circles.rg-types>i {
+        border-color: #eab7bc;
+    }
+    .rc-slider-track {
+        background-color: #000 !important;
+    }
+    .rc-slider-handle {
+        border: solid 2px #000 !important;
+    }
+    .rc-slider-handle:active {
+        border-color: #000 !important;
+        box-shadow: 0 0 5px #000 !important;
+    }
+    .rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+        border-color: #000 !important;
+        box-shadow: 0 0 0 5px #efefef !important;
+    }    
+    ul.rcs_diamond_shapes_filter li a {
+        color: #151515;
+    }    
+    ul.rcs_diamond_shapes_filter li a i {
+        color: #151515;
+    }    
+    .rcs_filter_accordion_sec .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+        border-bottom: 1px solid #ededed;
+    }
+    .rcs_mob_filter1.rcs_ring_setting_filter {
+        border-right: 1px solid #efeded;
+    }
+    .rcs_filter_accordion_sec .css-1elwnq4-MuiPaper-root-MuiAccordion-root:before {
+        background-color: transparent !important;
+    }
+    .rc-slider-dot-active {
+        border-color: #000 !important;
+    }
+    .rc-slider-dot {
+        border: 0px solid #e9e9e9 !important;
+    }
+    .item--YBPgi{
+        border:1px solid #dfdfdf;
+    }
+    .item--YBPgi:last-child{
+        border-right:1px solid #dfdfdf;
+    }
+    .item--YBPgi.selected--Qs8si{
+        border:1px solid #000 !important;
+        -webkit-box-shadow:inset 0px 0px 1px 1px rgb(222 193 136 / 76%);
+        -moz-box-shadow:inset 0px 0px 1px 1px rgb(222 193 136 / 76%);
+        box-shadow:inset 0px 0px 1px 1px rgb(222 193 136 / 34%);
+        box-shadow: inset 0px 0px 1px 1px rgb(222 193 136 / 34%);
+        border-color: #000;
+    }
+    .filtered--yd5Rg{
+        color:#000;
+    }
+    .title--jqbwB{
+        color:#656565;
+    }
+    .rcs_filter_accordion_sec .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+        border: 1px solid #ebebeb;
+    }
+    .rcs_filter_accordion_sec .css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+        background-color: transparent !important;
+    }
+    .rcs_shape_wizard_content ul li.rcs_setting_details h2 {
+        color: #484848;
+    }   
+    .rcs_shape_wizard_content ul li.rcs_setting_details.active h2,.rcs_shape_wizard_content ul li.rcs_setting_details.active a,.rcs_shape_wizard_content ul li.rcs_setting_price.active p {
+        color: #fff !important;
+    }       
+    .rcs_shape_wizard_content ul li.rcs_setting_details a, .rcs_shape_wizard_content ul li.rcs_setting_details a:hover {
+        color: #3c3c3c;
+    }
+    .rcs_shape_wizard_content ul li.rcs_shape_wizard_img {
+        background-color: #fff;
+        box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
+    }
+    .rcs_diamond_table .MuiTableBody-root tr:hover th, .rcs_diamond_table .MuiTableBody-root tr:hover td {
+        background-color: #efefef;
+    }
+    .rcs_diamond_table .MuiTableBody-root tr:hover td button {
+        background-color: #000;
+        color: #fff;
+    }
+    .rcs_diamond_table .css-pq9uuc:nth-of-type(2n+1) {
+        background-color: rgb(255, 255, 255);
+    }
+    .rcs_clear_filter {
+        border-color: #ebebeb !important;
+        color: #000 !important;
+    }
+    .rcs_gemstone_shape1 li {
+        border: 1px solid transparent !important;
+    }
+    .rcs_add_setting_btn {
+        background-color: #666 !important;
+        color: #fff !important;
+    }
+    .rcs_add_setting_btn1 {
+        background-color: #666 !important;
+        color: #fff !important;
+    }
+    .rcs_add_setting_btn2 {
+        background-color: #666 !important;
+        color: #fff !important;
+    }
+    .rcs_filter_accordion_sec .css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded .MuiCollapse-root.MuiCollapse-vertical.MuiCollapse-entered.css-pwcg7p-MuiCollapse-root {
+        border-bottom: 1px solid #ededed;
+    }
+    .rcs_mobile_setting_details {
+        background-color: #fff;
+        box-shadow: 0 3px 7px rgba(0,0,0,.21);
+    }
+    .rcs_mobile_setting_details ul li .rcs_mobile_setting_content button {
+        background-color: #000;
+        color: #fff !important;
+    }
+    .rcs_filter_accordion_sec .css-1iji0d4.Mui-expanded {
+        border-bottom: 1px solid #ededed;
+    }
+    .rcs_filter_accordion_sec .css-67l5gl {
+        background-color: transparent !important;
+    }
+    .rcs_filter_accordion_sec .css-1iji0d4 {
+        border: 1px solid #ebebeb !important; 
+    }
+    .rcs_filter_accordion_sec .css-1iji0d4.Mui-expanded .css-c4sutr {
+        border-bottom: 1px solid #ededed;
+    }
+    /*Responsive Ring Setting page css*/
+    @media (min-width: 768px){
+        .steps-1-2-3-block .step .rhombus, .steps-1-2-3-block .step .rhombus-top {
+            border-bottom: 50px solid #ebebeb;
+            border-top: 0px solid transparent;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+        }
+        .steps-1-2-3-block .step .rhombus::before, .steps-1-2-3-block .step .rhombus-top::before {
+            border-top: 50px solid #ebebeb;
+            border-bottom: 0px solid transparent;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+        }
+        .steps-1-2-3-block.active .step .rhombus-top {
+            border-bottom: 50px solid white;
+            border-top: 0px solid transparent;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+        }
+        .steps-1-2-3-block.active .step .rhombus-top::before {
+            border-top: 50px solid white;
+            border-bottom: 0px solid transparent;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+        }
+    }
+    @media (min-width: 320px) and (max-width: 575px) { 
+        .rcs_gemstone_color_mob .item--YBPgi.selected--Qs8si .title--jqbwB,.rcs_gemstone_color_shape .item--YBPgi.selected--Qs8si .title--jqbwB {
+            color: #000;
+        }
+    }
+    /*Responsive Ring Setting page css*/
+/*Ring Setting page css*/

@@ -1,0 +1,135 @@
+.rcs_education_blog_banner {
+    background-image: url('https://i.shgcdn.com/1e52d955-4df6-4776-bec4-1abaf1136e67/-/format/auto/-/preview/3000x3000/-/quality/lighter/');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    flex: 1 1 auto;
+    justify-content: center;
+}
+.rcs_education_blog_banner_content {
+    display: flex;
+}
+.rcs_blog_banner_content {
+    text-align: center;
+    color: #fff;
+}
+.rcs_blog_banner_content h2 {
+    font-family: 'Montserrat'  !important;
+    color: #ffffff;
+    letter-spacing: 10px;
+    font-size: 24px;
+}
+.rcs_blog_banner_content h1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: Avenir;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 5px;
+    line-height: normal;
+}
+.rcs_blog_banner_content p {
+    font-family: Avenir;
+    color: #ffffff;
+    font-size: 20px;
+}
+.rcs_educational_contant0 {
+    background-image: url('https://i.shgcdn.com/2ef3f85f-e316-4636-9177-110644a6d680/-/format/auto/-/preview/3000x3000/-/quality/lighter/');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.rcs_educational_contant1 {
+    background-image: url('https://i.shgcdn.com/afb73710-46ee-42c1-b01c-bd5756c47bdc/-/format/auto/-/preview/3000x3000/-/quality/lighter/');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.rcs_educational_contant2 {
+    background-image: url('https://i.shgcdn.com/4ca0ed74-070a-462f-ae67-dbe689b78f8e/-/format/auto/-/preview/3000x3000/-/quality/lighter/');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.rcs_educational_contant h2 {
+    position: absolute;
+    bottom: 70px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-weight: 700;
+    font-family: Avenir !important;
+    font-size: 26px;
+}
+.rcs_educational_contant button {
+    position: absolute;
+    bottom: 20px;
+}
+.rcs_educational_categories img,.rcs_diamond_education img {
+    width: 100%;
+}
+.rcs_educational_categories h2 {
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-family: 'Montserrat' !important;
+    margin-top: 20px;
+}
+.rcs_diamond_top_content {
+    text-align: center;
+}
+.rcs_diamond_education h2 {
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat' !important;
+    margin: 10px 0;
+}
+.rcs_diamond_education button {
+    margin: 20px auto;
+    display: block;
+}
+.rcs_diamond_top_content h2 {
+    font-family: Avenir;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 5px;
+    line-height: normal;
+}
+.rcs_diamond_top_content p {
+    font-size: 14px;
+    font-family: Avenir;
+    letter-spacing: 2px;
+    font-weight: 500;
+}

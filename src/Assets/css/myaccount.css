@@ -1,0 +1,363 @@
+/*My account css*/
+    .rcs_myaccount_section {
+        padding: 20px 10px;
+    }
+    .rcs_breadcrumb li a, .rcs_breadcrumb li p {
+        font-size: 10px;
+        font-weight: 500;
+        text-transform: capitalize;
+        font-size: 11px;
+    }
+    /* .rcs_breadcrumb li p {
+        font-weight: 300;
+    } */
+    .rcs_my_account_user ul {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }    
+    .rcs_my_account_user ul li span {
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 26px;
+        font-weight: 600;
+        line-height: 50px;
+        margin-right: 10px;
+    }
+    .rcs_my_account_user ul li h2 {
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    .rcs_my_account_email ul li span {
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }    
+    .rcs_my_account_email ul li h6 {
+        font-size: 22px;
+        font-weight: 300;
+        margin: 0;
+    }
+    .rcs_my_account_email {
+        margin-bottom: 25px;    
+    }
+    .rcs_tab_section .css-1gsv261 {
+        border-top: 1px solid rgba(0, 0, 0, 0.12) !important;
+        border-bottom: none;
+    }
+    .rcs_tab_section .css-1aquho2-MuiTabs-indicator {
+        top: 0;
+    }
+    .rcs_tab_section .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        font-weight: 600;
+        padding: 0;
+    }
+    .rcs_tab_content_left .MuiFormControl-root {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .rcs_acc_button,.rcs_acc_button:hover,.rcs_acc_button:active,.rcs_acc_button:focus {
+        border-radius: 0 !important;
+        text-transform: capitalize !important;
+        padding: 13px 50px !important;
+        font-weight: 500 !important;
+        margin-right: 10px !important;
+        font-family: 'Inter', sans-serif !important;
+        font-size: 16px !important;
+        letter-spacing: 0.125rem !important;
+    }
+    .rcs_forgot_button,.rcs_forgot_button:hover,.rcs_forgot_button:active,.rcs_forgot_button:focus {
+        padding: 10px 50px !important;
+    }    
+    /* .rcs_acc_button::before {
+        position: absolute;
+        top: 4px;
+        left: 4px;
+        right: 0;
+        width: calc(100% - 8px);
+        height: calc(100% - 8px);
+        z-index: 1;
+        content: "";
+    } */
+    h2.rcs_account_heading {
+        margin-bottom: 17px;
+        font-size: 1.25rem;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_wislist_section {
+        margin-top: 25px;
+    }    
+    .rcs_wislist_section span {
+        display: block;
+        text-align: right;
+        text-decoration: underline;
+        font-size: 14px;
+    }
+    .rcs_tab_content_left {
+        padding: 20px;
+        border-radius: 3px;
+    }
+    .rcs_wislist_section table tbody tr td a {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .rcs_wislist_section table tbody tr td:hover a {
+        text-decoration: underline !important;
+    }
+    .rcs_tab_content_right {
+        border-radius: 3px;
+        margin-bottom: 20px;
+        padding: 30px 5px 20px 5px;
+    }
+    .rcs_tab_content_right ul {
+        display: flex;
+        padding: 0 15px;
+        justify-content: space-between;
+        width: 100%;
+    }    
+    .rcs_tab_content_right ul li span {
+        text-decoration: underline;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        cursor: pointer;
+    }
+    ul.rcs_add_btn {
+        display: flex;
+        justify-content: start;
+        padding: 0;
+    }    
+    ul.rcs_add_btn li span {
+        text-decoration: none;
+        padding-right: 15px;
+        font-size: 15px;
+        font-weight: 700;
+        cursor: pointer;
+        text-transform: capitalize;
+    }
+    .table {
+        margin: 0 !important;
+    }
+/*My account css*/
+/*Popup Css*/
+    .rcs_add_address .MuiFormControl-root {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .rcs_add_address p {
+        font-size: 15px;
+    }
+/*Popup Css*/
+/*wishlist css*/
+    .rcs_wislist_content {
+        position: relative;
+        padding: 20px;
+        text-align: center;
+        cursor: pointer;
+        margin-bottom: 15px;
+        border-radius: 5px;
+    }
+    .rcs_sku {
+        padding: 5px 13px;
+        font-size: 14px;
+        margin: 13px 0px;
+    }
+    .rcs_wislist_content img {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+    .rcs_wislist_content h2 {
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 25px;
+        font-family: 'Santral-Light' !important;
+    }
+    p.rcs_wish_price {
+        font-weight: 600;
+        font-size: 23px;
+        margin: 0px;
+    }
+    .rcs_wislist .css-13xfq8m-MuiTabPanel-root {
+        padding: 24px 0;
+    }
+    .rcs_wislist_content button {
+        position: absolute;
+        top: 13px;
+        right: 14px;
+        border-radius: 50%;
+        padding: 7px;
+        width: 33px;
+        height: 33px;
+        cursor: pointer;
+        z-index: 99;
+    }
+/*wishlist css*/
+/*Server css*/
+    .rcs_tab_section .css-1gsv261 {
+        border-top: 1px solid rgba(0, 0, 0, 0.12) !important;
+        border-bottom: none !important;
+    }
+    .rcs_tab_section .css-1q2h7u5.Mui-selected {
+        font-weight: 600;
+        padding: 0;
+    }
+    .rcs_tab_section .css-ttwr4n {
+        top: 0;
+    }
+/*Server css*/
+/*Responsive css*/
+    @media (min-width:1199px){
+        .rcs_wislist_content{height: 400px;}
+    }
+    @media (min-width: 768px) and (max-width: 992px){
+        button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.rcs_acc_button.css-sghohy-MuiButtonBase-root-MuiButton-root {
+            padding: 13px 30px !important;
+        }
+    }
+    @media (min-width: 320px) and (max-width: 767px){
+        .rcs_my_account_email {
+            margin-bottom: 25px;
+            padding: 10px 15px 0;
+        }    
+        .rcs_my_account_email ul li h6 {
+            font-size: 16px;
+        }
+        .rcs_top_heading h2, .rcs_top_heading h1 {
+            font-size: 30px;
+            margin: 10px 0 20px;
+        }  
+        .rcs_my_account_user ul li span {
+            width: 40px;
+            height: 40px;
+            font-size: 20px;
+        }  
+        .rcs_tab_section .MuiTabs-scroller.MuiTabs-fixed.css-jpln7h-MuiTabs-scroller {
+            overflow: scroll !important;
+        }
+        .rcs_acc_button, .rcs_acc_button:hover, .rcs_acc_button:active, .rcs_acc_button:focus {
+            padding: 13px 40px !important;
+            width: 100%;
+        }           
+        .rcs_myaccount_section {
+            padding: 20px 0px;
+        }
+        .rcs_tab_content_left {
+            padding: 10px;
+        }
+        .rcs_tab_content .col-md-4.col-sm-6.col-12 {
+            padding: 0 !important;
+            margin-top: 20px;
+        }    
+        h2.rcs_account_heading {
+            font-size: 16px;
+        }
+        .rcs_tab_content_right ul {
+            align-items: first baseline;
+        }
+        .rcs_tabel_Content1,.rcs_wislist {
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+        }
+        .rcs_pwd_Content1 {
+            padding-left: 15px !important;
+            padding-right: 15px !important;
+        }
+        .rcs_wish_desc {
+            word-break: break-word;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            line-height: 16px; /* fallback */
+            max-height: 65px; /* fallback */
+            -webkit-line-clamp: 4; /* number of lines to show */
+            -webkit-box-orient: vertical;
+            font-size: 14px;
+        }
+        .rcs_wislist_content h2 {
+            line-height: 16px;
+        }
+        .rcs_check_section.col span {
+            font-size: 13px;
+        }
+        .rcs_wislist_section span {
+            cursor: pointer;
+        }
+        .rcs_tab_content_right {
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+        }
+        .rcs_cart_bottom_content  {
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+            margin-bottom: 30px !important;
+        }
+        .rcs_cart_section .col-sm-5.col-12 {
+            padding: 0 !important;
+        }
+        .rcs_custom_padding button svg {
+            margin-left: 0 !important;
+        }
+        .rcs_checkout_content .col {
+            padding: 0 !important;
+        }
+        .rcs_custom_padding.col span {
+            font-size: 14px;
+        }
+        .rcs_right_side_mobile ul li {
+            padding: 0;
+        }
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        .rcs_tab_content_right {
+            width: 49%;
+            float: left;            
+        }
+        .modal-body .rcs_tab_content_right {
+            width: 100%;            
+        }
+        .rcs_tab_content_right:first-child {
+            margin: 25px 7px 25px 0 !important;
+        }
+        .rcs_tab_content_right:last-child {
+            margin: 25px 0 25px 7px !important;
+        }
+        .rcs_tab_content .col-md-4.col-sm-12.col-12 {
+            padding: 0;
+        }
+        .rcs_custom_padding {
+            padding: 0 8px !important;
+        }
+        .rcs_my_account_email {
+            padding: 0;
+        }
+        .rcs_right_side_mobile ul li {
+            padding: 0;
+        }
+        .rcs_right_side_mobile ul li .css-1orzy9s {
+            margin: 0 !important;
+        }
+        .rcs_top_head_content p {
+            padding: 10px;
+        }
+        .rcs_tab_section .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+            min-width: 100px !important;
+        }
+        .rcs_my_account_user ul li h2 {
+            font-size: 16px;
+        }    
+    }
+/*Responsive css*/

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+code {
+  font-family: 'Inter', sans-serif !important;
+}

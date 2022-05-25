@@ -1,0 +1,996 @@
+    @font-face {
+        font-family: 'edu-cats';        
+        src:  url('../font/edu-cats.eot?zgcz18');
+        src:  url('../font/edu-cats.eot?zgcz18#iefix') format('embedded-opentype'),
+        url('../font/edu-cats.ttf?zgcz18') format('truetype'),
+        url('../font/edu-cats.woff?zgcz18') format('woff'),
+        url('../font/edu-cats.svg?zgcz18#edu-cats') format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+    
+    [class^="edu-cats-"], [class*=" edu-cats-"] {
+        font-family: 'edu-cats' !important;
+        /* speak: none; */
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+    
+    @font-face {
+        font-family: 'themify';
+        src: url('../font/themify.eot');
+        src: url('../font/themify.eot?#iefix') format('embedded-opentype'),
+         url('../font/themify.woff') format('woff'), 
+         url('../font/themify.ttf') format('truetype'), 
+         url('../font/themify.svg') format('svg');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap
+    }
+
+    [class*=" icon-"],
+    [class^=icon-] {
+        font-family: 'themify'
+    }
+
+    @font-face {
+        font-family: 'big-ring-settings';
+        src:  url('../font/big-ring-settings.eot?xqhcic');
+        src:  url('../font/big-ring-settings.eot?xqhcic#iefix') format('embedded-opentype'),
+          url('../font/big-ring-settings.ttf?xqhcic') format('truetype'),
+          url('../font/big-ring-settings.woff?xqhcic') format('woff');
+          /* url('../font/big-ring-settings.svg') format('svg'); */
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      
+    [class^="big-setting-"], [class*=" big-setting-"], [class^="big-settings-"], [class*=" big-settings-"] {
+        font-family: 'big-ring-settings' !important;
+        /* speak: none; */
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+/*Education Css*/ 
+    .edu-cats-diamonds:before {
+        content: "\e900";
+    }
+    .edu-cats-settings:before {
+        content: "\e901";
+    }
+    .edu-cats-metals:before {
+        content: "\e902";
+    }
+    .edu-cats-gemstones:before {
+        content: "\e903";
+    }  
+    .rcs_top_heading p {
+        font-size: 16px;
+    }
+    .icon-gift:before {
+        content: "\e6a0";
+    }
+    .icon-medkit:before {
+        content: "\e6d4";
+    }
+    .icon-support:before {
+        content: "\e6d4";
+    }
+    .icon-blackboard:before {
+        content: "\e654";
+    }
+    .icon-graduation-cap:before {
+        content: "\e654";
+    }
+    .icon-calculator:before, .icon-dollar:before, .icon-money:before {
+        content: "\e68c";
+    }
+    .rcs_education_cotnent_inner i[class^="icon-"] {
+        font-size: 55px;
+        height: 55px;
+        width: auto;
+    }
+    .rcs_education_cotnent_inner i {
+        font-size: 85px;
+        height: 85px;
+        width: 85px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .rcs_education_cotnent_inner .border.img-circle {
+        max-height: 100px;
+        max-width: 100px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .rcs_education_cotnent_inner .img-circle {
+        border-radius: 50%;
+    }
+    .rcs_education_cotnent_inner .border.img-circle {
+        width: 100px;
+        height: 100px;
+    }
+    [class^="icon-"], [class*=" icon-"] {
+        /* speak: never; */
+        display: inline-block;
+        font-size: inherit;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }    
+    .rcs_education_cotnent_inner:hover {
+        border-radius: 3px;
+    }
+    .rcs_education_cotnent_inner {
+        text-align: center;
+        padding: 20px;
+    }
+    .rcs_education_cotnent_inner h2 {
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_education_cotnent_inner p {
+        font-size: 15px;
+        font-weight: 400;
+        font-style: normal;
+        text-shadow: none;
+        line-height: 1.30;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_education_cotnent {
+        padding: 50px 0;
+    }
+/*Education css*/
+/*Right Setting css*/
+    .big-setting-bypass:before {
+        content: "\e900";
+    }
+    .big-setting-channel-set:before {
+        content: "\e901";
+    }
+    .big-setting-straight:before,
+    .big-setting-complete:before {
+        content: "\e902";
+    }
+    .big-setting-double-halo:before {
+        content: "\e903";
+    }
+    .big-setting-freeform:before {
+        content: "\e904";
+    }
+    .big-setting-halo:before {
+        content: "\e905";
+    }
+    .big-setting-pave:before {
+        content: "\e906";
+    }
+    .big-setting-sidestone:before {
+        content: "\e907";
+    }
+    .big-setting-solitaire:before {
+        content: "\e908";
+    }
+    .big-setting-splitshank:before {
+        content: "\e909";
+    }
+    .big-setting-straight:before {
+        content: "\e90a";
+    }
+    .big-setting-three-stone-halo:before {
+        content: "\e90b";
+    }
+    .big-setting-threestone:before {
+        content: "\e90c";
+    }
+    .big-setting-vintage:before {
+        content: "\e90d";
+    }
+    .big-setting-wide-band:before {
+        content: "\e90e";
+    }
+/*Right Setting css*/
+/*education-gold-buying*/
+    .rcs_education_button,.rcs_education_button:hover,.rcs_education_button:active,.rcs_education_button:focus {
+        border-radius: 0 !important;
+        text-transform: capitalize !important;
+        padding: 10px 50px !important;
+        font-weight: 500 !important;
+        font-family: 'Inter', sans-serif !important;
+        font-size: 16px !important;
+        letter-spacing: 0.125rem !important;
+    }  
+    .rcs_education_button::before {
+        position: absolute;
+        top: 4px;
+        left: 4px;
+        right: 0;
+        width: calc(100% - 8px);
+        height: calc(100% - 8px);
+        z-index: 1;
+        content: "";
+    }
+    .rcs_education_cotnent_pages {
+        padding: 10px 0 50px;
+    }
+    .rcs_education_cotnent_pages h2 {
+        font-size: 24px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+        margin-bottom: 30px;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_top_heading h4 {
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_education_cotnent_pages img {
+        margin-bottom: 40px;
+    }    
+    .rcs_education_cotnent_pages p {
+        font-size: 16px;
+    }    
+    .rcs_education_cotnent_pages h4 strong {
+        font-size: 16px;
+    }    
+    .rcs_education_cotnent_pages h4 a,.rcs_education_cotnent_pages ul li a,.rcs_education_cotnent_pages p a {
+        font-size: 15px;
+    } 
+    .rcs_education_cotnent_pages h4 a:hover,.rcs_education_cotnent_pages ul li a:hover,.rcs_education_cotnent_pages p a:hover {
+        text-decoration: underline;
+    }    
+    .rcs_education_cotnent_pages h4 {
+        margin-bottom: 30px;
+    }
+    .rcs_education_cotnent_pages ul {
+        padding-left: 30px;
+        list-style: unset;
+        margin-bottom: 35px;
+    }
+    .rcs_education_cotnent_pages ul li {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+/*education-gold-buying*/    
+/*education metal tab css*/    
+    .rcs_education_cotnent_pages_metal .MuiSvgIcon-root {
+            width: 1.5em !important;
+            height: 1.5em !important;
+    }    
+    .rcs_education_cotnent_pages_metal .css-1gsv261 {
+        border-bottom: 0 !important;
+    }
+    .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        width: 116px;
+        border-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: bolder;
+    }
+    .rcs_education_cotnent_pages_metal .css-heg063-MuiTabs-flexContainer {
+        justify-content: space-between;
+    }
+    .rcs_education_cotnent_pages_metal .css-1aquho2-MuiTabs-indicator {
+        display: none !important;
+    }
+    .rcs_education_cotnent_pages_metal .css-13xfq8m-MuiTabPanel-root {
+        padding: 24px 13px !important;
+    }
+/*education metal tab css*/    
+/*education gemstone tab css*/       
+    .rcs_education_cotnent_pages_gemstone .css-1aquho2-MuiTabs-indicator {
+        display: none !important;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-h4sz55.Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 15 5px;
+        font-weight: 700;        
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        /* padding: 0 5px; */
+        padding: 15px 0;
+        font-weight: 500;
+        max-width: 100%;
+        min-width: 50%;
+        border-radius: 5px;
+    }
+    /*inner content*/    
+    .rcs_education_cotnent_pages_gemstone_inner .MuiSvgIcon-root {
+        width: 1.5em !important;
+        height: 1.5em !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1gsv261,.rcs_education_cotnent_pages_gemstone .css-1gsv261 {
+        border-bottom: 0 !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        width: 116px;
+        border-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-heg063-MuiTabs-flexContainer,.rcs_education_cotnent_pages_gemstone .css-heg063-MuiTabs-flexContainer {
+        display: block !important;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-13xfq8m-MuiTabPanel-root {
+        padding: 30px 0 !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 15px 0;
+        font-weight: 500;
+        border-radius: 5px;
+        float: left;
+        max-width: 360px;
+        min-width: 90px;
+        width: 173.8px;
+        margin: 5px 5.6px 5px 5.6px;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        font-weight: bolder;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child {
+        margin-left: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+        margin-right: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(7),.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(13),.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(19) {
+        margin-left: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(12),.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(18),.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(24) {
+        margin-right: 0;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    .rcs_education_cotnent_pages.rcs_education_cotnent_pages_gemstone img {
+        margin: 0 !important;
+    }
+    .rcs_education_gemstone_content h2 {
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+        margin-bottom: 10px;
+    }    
+    .rcs_education_gemstone_content p {
+        font-size: 15px;
+    }
+    /*inner content*/    
+/*education gemstone tab css*/    
+/*education setting tab css*/    
+    .rcs_education_cotnent_pages_setting .css-aym9vq-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_setting .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+        padding: 56px 0 13px;
+    }
+    .rcs_education_cotnent_pages_setting i {
+        position: absolute;
+        top: -10px;
+        font-size: 75px;
+    }
+/*education setting tab css*/    
+/*education Diamond tab css*/    
+    .rcs_education_cotnent_pages_diamond .css-1aquho2-MuiTabs-indicator {
+        display: none !important;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 700;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(2),
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(3) {
+        border-radius: 0;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        border-radius: 5px;
+        width: 25%;
+    }
+    .rcs_education_cotnent_pages_diamond .css-heg063-MuiTabs-flexContainer {
+        justify-content: space-between;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1gsv261 {
+        border-bottom: 0 !important;
+    }
+    .rcs_education_diamond_carat .brackets {
+        position: relative;
+    }
+    .rcs_education_diamond_carat .brackets .col::before, .rcs_education_diamond_carat .brackets .col-3::before {
+        content: "";
+        height: 20px;
+        display: block;
+        position: absolute;
+        left: 0;
+        margin-left: -1px;
+    }
+    .rcs_education_diamond_carat .brackets .bracket {
+        position: relative;
+        height: 30px;
+    }
+    .rcs_education_diamond_carat .brackets .col, .rcs_education_diamond_carat .brackets .col-3 {
+        padding: 0;
+    }
+    .rcs_education_diamond_carat .brackets .bracket::before {
+        content: "";
+        height: 12px;
+        display: block;
+        position: absolute;
+        left: 50%;
+        margin-left: -1px;
+    }
+    .rcs_education_diamond_carat .brackets .bracket::after {
+        content: "";
+        height: 20px;
+        display: block;
+        position: absolute;
+        left: 100%;
+        margin-left: -1px;
+    }
+    .rcs_education_diamond_carat .ct-img img {
+        display: block;
+        margin: 0 auto;
+        width: auto;
+        max-width: 100%;
+        opacity: 1;
+        transition: opacity 0.3s;
+    }
+    .rcs_education_diamond_carat .ct-img label, .rcs_education_diamond_carat .ct-img label span, .rcs_education_diamond_carat .ct-img label span small {
+        font-size: 12px;
+        font-weight: normal;
+        width: 100%;
+    }    
+    .rcs_education_diamond_carat .ct-img label {
+        line-height: 1;
+        text-align: center;
+        margin-top: 0.5rem;
+    }
+    .rcs_education_diamond_carat .ct-img label small, .rcs_education_diamond_carat .ct-img label span small {
+        text-transform: uppercase;
+        font-size: 10px;
+    }
+    .rcs_education_diamond_cut .diamond-cut-image {
+        transform: translateY(25%);
+        margin-bottom: 0;
+        width: auto;
+        max-width: 100%;
+        opacity: 1;
+        transition: opacity 0.3s;
+    }
+    .rcs_education_diamond_cut .list-group-box, .rcs_education_diamond_clarity .list-group-box {
+        padding: 20px;
+    }
+    .rcs_education_diamond_cut .hide,.rcs_education_diamond_clarity .hide {
+        display: none !important;
+    }
+    .rcs_education_diamond_cut h4,.rcs_education_diamond_clarity h4 {
+        font-family: 'Inter', sans-serif !important;
+        font-size: 1.50rem;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        margin-bottom: 10px;
+        letter-spacing: 0.125rem;
+    }
+    .rcs_education_diamond_cut p,.rcs_education_diamond_clarity p {
+        font-family: 'Inter', sans-serif !important;
+        font-size: 1rem;
+        font-weight: 400;
+        font-style: normal;
+        text-shadow: none;
+        line-height: 1.30;
+    }
+    .rcs_education_diamond_cut .table span.active, .rcs_education_diamond_clarity .table span.active {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: -35px;
+        transform: translateY(-50%);
+        width: auto;
+        height: auto;
+        border-radius: 0;
+    }
+    .rcs_education_diamond_cut .table .rcs_table_text, .rcs_education_diamond_clarity .table .rcs_table_text {
+        cursor: pointer;
+    }
+    .rcs_education_diamond_cut .table td, .rcs_education_diamond_clarity .table td {
+        position: relative;
+    }
+    .rcs_education_diamond_cut .table-condensed td, .rcs_education_diamond_clarity .table-condensed td {
+        vertical-align: middle;
+    }
+    .disabled:not(.nav-link), a.disabled:not(.nav-link) {
+        pointer-events: none;
+        cursor: default;
+        opacity: 0.5;
+        text-decoration: none !important;
+    }
+    .rcs_education_diamond_cut #edu-diamonds-excellent .list-group-box {
+        margin-top: 0;
+    }
+    .rcs_education_diamond_cut #edu-diamonds-verygood .list-group-box {
+        margin-top: 20px;
+    }
+    .rcs_education_diamond_cut #edu-diamonds-good .list-group-box {
+        margin-top: 60px;
+    }
+    .rcs_education_diamond_cut #edu-diamonds-fair .list-group-box {
+        margin-top: 140px;
+    }
+    .rcs_education_diamond_cut #edu-diamonds-poor .list-group-box {
+        margin-top: 150px;
+    }
+    .rcs_education_diamond_color .color-img {
+        padding: 5px;
+        display: block;
+    }
+    .rcs_education_diamond_color .bracket {
+        display: block;
+        max-width: 100%;
+        height: 15px;
+        margin-bottom: 0.75rem;
+    }
+    .rcs_education_diamond_color h5 {
+        font-family: 'Inter', sans-serif !important;
+        font-size: .875rem;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+    }
+    .rcs_education_diamond_color .color-img img {
+        width: auto;
+        max-width: 100%;
+        opacity: 1;
+        transition: opacity 0.3s;
+        margin-bottom: 0;
+    }
+    .rcs_education_diamond_color img.rcs_gif_image {
+        margin: 0 auto;
+        display: block;
+        width: 100%;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-f .list-group-box {
+        margin-top: 0;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-if .list-group-box {
+        margin-top: 0;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-vvs .list-group-box {
+        margin-top: 20px;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-vs .list-group-box {
+        margin-top: 60px;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-si .list-group-box {
+        margin-top: 170px;
+    }
+    .rcs_education_diamond_clarity #edu-diamond-clarity-i .list-group-box {
+        margin-top: 245px;
+    }
+    .force-middle {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: auto;
+        max-width: 100%;
+        opacity: 1;
+        transition: opacity 0.3s;
+    }
+/*education Diamond tab css*/ 
+/*Server css*/    
+    .rcs_education_cotnent_pages_diamond .css-k008qs {
+        justify-content: space-between;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5.Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 700;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(2), .rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(3) {
+        border-radius: 0;
+    }    
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5 {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        border-radius: 5px;
+        width: 25%;
+    }
+    .rcs_education_cotnent_pages_diamond .css-1q2h7u5:last-child {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    .rcs_education_cotnent_pages_setting .css-1tnnsql.Mui-selected, .rcs_education_cotnent_pages_setting .css-1tnnsql {
+        padding: 56px 0 13px !important;
+    }    
+    .rcs_education_cotnent_pages_metal .css-1tnnsql.Mui-selected {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: bolder;
+    }
+    .rcs_education_cotnent_pages_metal .css-k008qs {
+        justify-content: space-between;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1q2h7u5:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 700;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-k008qs, .rcs_education_cotnent_pages_gemstone .css-k008qs {
+        display: block !important;
+    }    
+    .rcs_education_cotnent_pages_metal .css-1tnnsql {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        width: 116px;
+        border-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_diamond .css-ttwr4n,
+    .rcs_education_cotnent_pages_gemstone .css-ttwr4n,
+    .rcs_education_cotnent_pages_metal .css-ttwr4n {
+        display: none !important;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-1q2h7u5 {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 500;
+        max-width: 100%;
+        min-width: 50%;
+        border-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_gemstone .css-19kzrtu {
+        padding: 30px 0 !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1q2h7u5, .rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 15px 0;
+        font-weight: 500;
+        border-radius: 5px;
+        float: left;
+        max-width: 360px;
+        min-width: 90px;
+        width: 173.8px;
+        margin: 5px 5.6px 5px 5.6px;
+    }
+    .rcs_education_cotnent_pages_metal .css-1tnnsql.Mui-selected {
+        text-transform: uppercase;
+        font-size: 12px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: bolder;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:first-child {
+        margin-left: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:last-child {
+        margin-right: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(7),.rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(13),.rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(19) {
+        margin-left: 0;
+    }    
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(12),.rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(18),.rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:nth-child(24) {
+        margin-right: 0;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:first-child {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .css-1tnnsql:last-child {
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    .rcs_education_cotnent_pages.rcs_education_cotnent_pages_gemstone img {
+        margin: 0 !important;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        font-weight: bolder;
+    }
+/*Server css*/ 
+    .rcs_education_cotnent_pages_gemstone .Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 0 5px;
+        font-weight: 700;
+    }
+    .rcs_education_cotnent_pages_gemstone_inner .Mui-selected {
+        text-transform: capitalize;
+        font-size: 14px;
+        line-height: 12px;
+        padding: 15px 0;
+        font-weight: 700;
+    }
+/*Responsive Css*/
+    @media (min-width: 320px) and (max-width: 767px) {
+        /*education-gold-buying*/ 
+        .rcs_education_cotnent {
+            padding: 0px 0;
+        }
+        .rcs_education_cotnent_inner p {
+            margin-bottom: 0;
+        }
+        .rcs_top_heading {
+            text-align: center;
+        }
+        .rcs_education_cotnent_pages img {
+            margin-bottom: 40px;
+            width: 100%;
+        }
+        .rcs_education_button, .rcs_education_button:hover, .rcs_education_button:active, .rcs_education_button:focus {
+            margin: 0 auto 30px !important;
+            display: block !important;
+            padding: 10px 30px !important;
+            font-size: 14px !important;
+        }
+        .rcs_education_cotnent_pages h2 {
+            font-size: 16px;
+            margin-bottom: 20px;
+        } 
+        .rcs_education_cotnent_pages p {
+            font-size: 14px;
+        }  
+        .rcs_top_heading p {
+            font-size: 14px;
+        }
+        .rcs_education_cotnent_pages ul li {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .rcs_education_cotnent_pages_metal .css-heg063-MuiTabs-flexContainer,.rcs_education_cotnent_pages_diamond .css-heg063-MuiTabs-flexContainer,.rcs_education_cotnent_pages_gemstone_inner .css-heg063-MuiTabs-flexContainer {
+            display: block !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-jpln7h-MuiTabs-scroller,.rcs_education_cotnent_pages_diamond .css-jpln7h-MuiTabs-scroller,.rcs_education_cotnent_pages_gemstone_inner .css-jpln7h-MuiTabs-scroller {
+            white-space: unset !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_diamond .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-h4sz55, .rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+            width: 29%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages {
+            padding: 10px 0 0px;
+        }
+        .rcs_education_diamond_cut .list-group-box {
+            margin-top: 70px !important;
+        }     
+        .rcs_education_diamond_clarity .list-group-box {
+            margin-top: 0px !important;
+        }     
+        /* .rcs_education_diamond_cut .table span.active, .rcs_education_diamond_clarity .table span.active {
+            display: none !important;
+        } */
+        .rcs_education_cotnent_pages img {
+            position: unset;
+            transform: unset;
+        }
+        .rcs_education_diamond_cut .diamond-cut-image {
+            transform: unset;
+        }
+        /*education-gold-buying*/ 
+        /*server css*/
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5,.rcs_education_cotnent_pages_metal .css-1tnnsql,.rcs_education_cotnent_pages_diamond .css-1tnnsql,.rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+            width: 29%;
+            margin: 10px;
+        }
+        /*server css*/        
+    }
+    @media (min-width: 320px) and (max-width: 575px) {
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_diamond .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root, .rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+            width: 43%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+            border-radius: 5px;
+        }
+        /*Server css*/
+        .rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:first-child,.rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1q2h7u5:last-child {
+            border-radius: 5px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5,.rcs_education_cotnent_pages_metal .css-1tnnsql,.rcs_education_cotnent_pages_diamond .css-1tnnsql,.rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+            width: 43%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_metal .css-k008qs,.rcs_education_cotnent_pages_diamond .css-k008qs,.rcs_education_cotnent_pages_gemstone_inner .css-k008qs {
+            display: block !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-1anid1y,.rcs_education_cotnent_pages_diamond .css-1anid1y,.rcs_education_cotnent_pages_gemstone_inner .css-1anid1y {
+            white-space: unset !important;
+        }
+        /*Server css*/
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_diamond .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root, .rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+            width: 46%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+            border-radius: 5px;
+        }
+        /*Server css*/
+        .rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:first-child,.rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1q2h7u5:last-child {
+            border-radius: 5px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5,.rcs_education_cotnent_pages_metal .css-1tnnsql,.rcs_education_cotnent_pages_diamond .css-1tnnsql,.rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+            width: 46%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_metal .css-k008qs,.rcs_education_cotnent_pages_diamond .css-k008qs,.rcs_education_cotnent_pages_gemstone_inner .css-k008qs {
+            display: block !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-1anid1y,.rcs_education_cotnent_pages_diamond .css-1anid1y,.rcs_education_cotnent_pages_gemstone_inner .css-1anid1y {
+            white-space: unset !important;
+        }
+        /*Server css*/
+    }
+    @media (min-width: 768px) and (max-width: 991px) {
+        .rcs_education_cotnent {
+            padding: 10px 0;
+        }
+        .rcs_top_heading {
+            text-align: center;
+        }
+        .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_diamond .css-aym9vq-MuiButtonBase-root-MuiTab-root,.rcs_education_cotnent_pages_gemstone_inner .css-1h9z7r5-MuiButtonBase-root-MuiTab-root, .rcs_education_cotnent_pages_gemstone_inner .css-wclgr9-MuiButtonBase-root-MuiTab-root {
+            width: 30%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+            width: 22%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:first-child,.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1h9z7r5-MuiButtonBase-root-MuiTab-root:last-child {
+            border-radius: 5px;
+        }
+        .rcs_education_cotnent_pages_metal .css-heg063-MuiTabs-flexContainer,.rcs_education_cotnent_pages_diamond .css-heg063-MuiTabs-flexContainer,.rcs_education_cotnent_pages_gemstone_inner .css-heg063-MuiTabs-flexContainer {
+            display: block !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-jpln7h-MuiTabs-scroller,.rcs_education_cotnent_pages_diamond .css-jpln7h-MuiTabs-scroller,.rcs_education_cotnent_pages_gemstone_inner .css-jpln7h-MuiTabs-scroller {
+            white-space: unset !important;
+        }
+        /*Server css*/
+        .rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_diamond .css-1q2h7u5.Mui-selected.Mui-selected,.rcs_education_cotnent_pages_gemstone .css-1q2h7u5.Mui-selected {
+            font-size: 12px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:first-child,.rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(2),
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5:nth-child(3),.rcs_education_cotnent_pages_diamond .css-1q2h7u5:last-child {
+            border-radius: 5px;
+        }
+        .rcs_education_cotnent_pages_diamond .css-1q2h7u5,.rcs_education_cotnent_pages_metal .css-1tnnsql,.rcs_education_cotnent_pages_diamond .css-1tnnsql,.rcs_education_cotnent_pages_gemstone_inner .css-h4sz55 {
+            width: 30%;
+            margin: 10px;
+        }
+        .rcs_education_cotnent_pages_metal .css-k008qs,.rcs_education_cotnent_pages_diamond .css-k008qs,.rcs_education_cotnent_pages_gemstone_inner .css-k008qs {
+            display: block !important;
+        }
+        .rcs_education_cotnent_pages_metal .css-1anid1y,.rcs_education_cotnent_pages_diamond .css-1anid1y,.rcs_education_cotnent_pages_gemstone_inner .css-1anid1y {
+            white-space: unset !important;
+        }
+        /*Server css*/
+    }
+    @media (min-width: 992px) and (max-width: 1199px) { 
+        .rcs_education_cotnent_pages_metal .css-aym9vq-MuiButtonBase-root-MuiTab-root {
+            width: 96px;
+        }
+        .rcs_education_cotnent_pages_metal .css-1tnnsql {
+            width: 96px;
+        }
+    }
+/*Responsive Css*/        

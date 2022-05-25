@@ -1,0 +1,216 @@
+    .section-b-space {
+        padding-bottom: 70px;
+    }
+    section, .section-t-space {
+        padding-top: 70px;
+    }
+    .theme-invoice-1 .invoice-header {
+        padding: calc(15px + (45 - 15) * ((100vw - 320px) / (1920 - 320)));
+    }
+    .theme-invoice-1 .invoice-header .upper-icon {
+        position: absolute;
+        width: calc(50px + (70 - 50) * ((100vw - 320px) / (1920 - 320)));
+        height: calc(50px + (70 - 50) * ((100vw - 320px) / (1920 - 320)));
+        top: 0;
+        right: calc(30px + (60 - 30) * ((100vw - 320px) / (1920 - 320)));
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .theme-invoice-1 .invoice-header .upper-icon img {
+        width: calc(22px + (30 - 22) * ((100vw - 320px) / (1920 - 320)));
+    }
+    .theme-invoice-1 .invoice-header .header-content {
+        margin-top: 50px;
+    }
+    .theme-invoice-1 .invoice-header h4 {
+        font-size: 16px;
+        margin-bottom: 5px;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .theme-invoice-1 .invoice-header .header-content h2 {
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: 0.02em;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom {
+        padding-top: 24px;
+        margin-top: 24px;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul li {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 16px;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul li strong {
+        text-transform: capitalize;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul li h4 {
+        margin-bottom: 0;
+        margin-left: 4px;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .invoice-wrapper .invoice-body {
+        padding: calc(15px + (45 - 15) * ((100vw - 320px) / (1920 - 320)));
+    }
+    .invoice-wrapper .invoice-body .table {
+        font-size: 16px;
+    }
+    .invoice-wrapper .invoice-body .table th, .invoice-wrapper .invoice-body .table td {
+        border-top: none;
+    }
+    .invoice-wrapper .invoice-body .table thead th {
+        text-transform: uppercase;
+        font-weight: 400;
+        padding-bottom: 16px;
+    }
+    .invoice-wrapper .invoice-body .table th, .invoice-wrapper .invoice-body .table td {
+        border-top: none;
+    }
+    .invoice-wrapper .invoice-body .table tbody th {
+        font-weight: normal;
+    }
+    .invoice-wrapper .invoice-body .table tbody tr:first-child td, .invoice-wrapper .invoice-body .table tbody tr:first-child th {
+        padding-top: 22px;
+    }
+    .invoice-wrapper .invoice-body .table tfoot td {
+        padding-top: 15px;
+    }
+    .invoice-wrapper .invoice-footer {
+        padding: calc(15px + (45 - 15) * ((100vw - 320px) / (1920 - 320)));
+    }
+    .invoice-wrapper .rcs_address_details {
+        padding: 0 45px;
+    }
+    .invoice-footer svg {
+        margin-right: 10px;
+    }
+    .rcs_pdf {
+      border-radius: 0 !important;
+        padding: 10px 15px !important;
+        margin-right: 10px !important;
+    }
+    .rcs_print {
+        border-radius: 0 !important;
+        padding: 10px 15px !important;
+    }
+    .text-end {
+        text-align: right !important;
+    }
+    .invoice-wrapper .buttons {
+        float: right;
+    }
+    .text-sm-end {
+        text-align: right !important;
+    }
+
+/*Order Success*/
+    .rcs_order_success {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .rcs_order_success h1{
+        margin-top: 10px;
+        margin-bottom: 15px;
+        font-size: 36px;
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: .02em;
+        font-family: 'Inter', sans-serif !important;
+    }
+    .rcs_order_success p {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 500;
+    }
+    .rcs_order_success button {
+        border: none;
+        padding: 10px 25px;
+        font-weight: 500;
+    }
+    .rcs_order_success img {
+        width: 150px;
+    }
+/*Order Success*/    
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .text-sm-end {
+        text-align: left !important;
+    }
+    .theme-invoice-1 .invoice-header .detail-bottom ul {
+        display: block;
+    }
+    .rcs_pdf , .rcs_print {
+        width: 100%;
+        margin-top: 20px !important;
+    }
+    .theme-invoice-1 .invoice-header h4 {
+        font-size: 14px;
+    }
+    .section-b-space {
+        padding-bottom: 40px;
+    }    
+    section, .section-t-space {
+        padding-top: 40px;
+    }    
+    .rcs_order_success h1 {
+        font-size: 26px;
+    } 
+    .rcs_order_success p {
+        font-size: 14px;
+    }
+    .rcs_order_success button {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+    .header-content img {
+        margin: 0 auto;
+        display: block;
+    }
+    .invoice-wrapper .invoice-body .table thead th strong {
+        font-size: 12px;
+    }
+    .invoice-wrapper .invoice-body .table tbody tr:first-child td, .invoice-wrapper .invoice-body .table tbody tr:first-child th {
+        font-size: 14px;
+    }
+    .invoice-wrapper .invoice-body .table tfoot td strong {
+        font-size: 14px;
+    }
+    .invoice-wrapper .invoice-body .table tfoot td {
+        padding: 3px 0;
+        font-size: 14px;
+    }
+    .invoice-wrapper .rcs_address_details {
+        padding: 0;
+    }
+    .invoice-wrapper .invoice-footer {
+        padding: 0 15px 20px;
+    }
+}

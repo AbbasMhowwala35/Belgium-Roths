@@ -1,0 +1,431 @@
+    ul.rcs_top_btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .rcs_Credit {
+        font-size: 12px;
+    }
+    .rcs_cart_main {
+        padding: 1.25rem;
+        background-clip: border-box;
+        border-radius: 0.25rem;
+        margin-bottom: 20px;
+    }
+    .rcs_cart_content img {
+        width: 160px;
+        margin: 0 auto;
+        display: block;
+        cursor: pointer;
+    }
+    .rcs_cart_content h2 {
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        letter-spacing: normal !important;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        font-family: 'Santral-Light' !important;
+    }
+    .rcs_cart_content p {
+        font-size: 12px;
+    } 
+    .rcs_cart_content1 p {
+        font-size: 12px;
+        margin: 0;
+        text-align: right;
+    }    
+    .rcs_cart_content span {
+        font-size: 12px;
+    }
+    .rcs_cart_content1 p strong {
+        font-size: 14px;
+    }
+    .rcs_cart_content ul li {
+        font-size: 12px;
+    }   
+    .rcs_cart_content ul li span:hover {
+        cursor: pointer;
+    } 
+    .rcs_cart_content ul li svg {
+        width: 18px;
+    }
+    .rcs_cart_padding {
+        padding: 0 10px !important;
+    }
+    .rcs_cart_bottom_content {
+        position: relative;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-clip: border-box;
+        border-radius: 0.25rem;
+        /* padding: 1.25rem; */
+        padding: 2.25rem;
+    }
+    .rcs_cart_bottom_content h2 {
+        font-size: 18px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+        letter-spacing: normal !important;
+    }    
+    .rcs_cart_bottom_content h3 {
+        font-size: 16px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        letter-spacing: normal !important;
+    }    
+    .rcs_cart_bottom_content h2 svg,.rcs_cart_bottom_content h3 svg {
+        font-size: 17px;
+        margin-right: 5px;
+    }
+    .rcs_cart_bottom_content .MuiFormControlLabel-root {
+        margin-bottom: 0 !important;
+        margin-right: 0 !important;
+    }
+    .rcs_cart_bottom_content p {
+        margin: 0 0 6px;
+        font-size: 12px;
+    }
+    .rcs_cart_bottom_content .MuiInputBase-input {
+        padding: 25px 12px 8px;
+    }
+    .rcs_cart_bottom_content .rcs_cancel_button {
+        width: 50%;
+        font-size: 11px !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+        margin: 10px 0 0 auto !important;
+    }
+    .rcs_cart_bottom_content hr.MuiDivider-root {
+        margin: 15px 0 !important;
+    }
+    .rcs_cart_bottom_content.rcs_cart_bottom_content1 hr.MuiDivider-root {
+        margin: 5px 0 4px!important;
+    }
+    .rcs_cart_bottom_content .MuiTypography-body1 {
+        font-size: 12px !important;
+    }
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }    
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 ul li p {
+        margin: 0;
+        font-weight: 400;
+        font-family: 'Inter', sans-serif !important;
+        letter-spacing: 0px;
+        text-transform: uppercase;
+        font-size: 13px;
+    }    
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 ul li span {
+        margin: 0;
+        font-size: 17px;
+        font-weight: 500;
+    }    
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 hr.MuiDivider-root {
+        margin: 10px 0 !important;
+        height: 2px !important;
+    }  
+    .rcs_cart_bottom_content .css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked ~ span {
+        font-weight: 800;
+        font-family: 'Inter', sans-serif !important;
+    }   
+    .rcs_withoutlogin.col {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .rcs_cart_bottom_content_last {
+        position: relative;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        margin-bottom: 30px;
+    }
+    .rcs_cart_bottom_content_last p {
+        text-align: center;
+        margin: 0;
+        font-size: 12px;
+    }    
+    .rcs_cart_bottom_content_last h2 {
+        font-size: 17px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        letter-spacing: normal !important;
+    }    
+    .rcs_cart_bottom_content_last ul.rcs_assistance {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }    
+    .rcs_cart_bottom_content_last ul.rcs_assistance li {
+        width: 100%;
+    }    
+    .rcs_cart_bottom_content_last ul.rcs_assistance li button {
+        width: 100%;
+    }
+    .rcs_cart_bottom_content_last hr.MuiDivider-root {
+        margin: 5px 0 !important;
+    }
+    .rcs_cart_bottom_content_last ul li {
+        font-size: 12px;
+    }  
+    .rcs_cart_bottom_content_last ul {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    } 
+    .rcs_cart_bottom_content_last ul li img {
+        width: 90px;
+        border-radius: 0.25rem;
+        box-shadow: 0 0;
+        margin-right: 7px;
+    }
+    .rcs_alert_danger a {
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .rcs_alert_danger a:hover {
+        text-decoration: underline !important;
+    }
+    .py-60 {
+        padding: 60px !important;
+    }
+    .card span {
+        border: 0 !important;
+        text-decoration: none !important;
+        font-weight: 600 !important;
+        font-size: 25px !important;
+        line-height: 1.2;
+        cursor: pointer;
+        text-transform: uppercase !important;
+    }
+    .rcs_custom_padding1 {
+        margin-bottom: 20px !important;
+        padding: 0 10px !important;
+    }
+    /* div#menu- ul {
+        height: 251px !important;
+    } */
+    /* .rcs_cart_height_select1::parent {
+        height: 251px !important;
+    } */
+    .rcs_cart_bottom_content.rcs_cart_bottom_content2 ul li {
+        padding-bottom: 15px;
+    }  
+    .rcs_withoutlogin a {
+        font-weight: 600;
+        text-decoration: underline;
+    }  
+/*checkout css*/
+    .rcs_checkout_content .MuiFormControl-root {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .rcs_tab_content_checkout img {
+        width: 100px;
+        margin: 0 auto;
+        display: block;
+    }
+    .rcs_tab_content_checkout h2 {
+        font-size: 14px;
+        text-transform: uppercase;
+        font-family: 'Inter', sans-serif !important;
+        font-weight: 700;
+        margin-bottom: 0.25rem !important;
+        text-shadow: none;
+        line-height: 1.00;
+        letter-spacing: 0.125rem;
+    }
+    .rcs_tab_content_checkout span {
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 12px;
+        margin-bottom: 0.5rem;
+        line-height: 1.2;
+    }
+    .rcs_tab_content_checkout p {
+        font-size: 12px;
+        line-height: 14px;
+        font-weight: 500;
+        margin-bottom: 5px;
+    }
+    #checkout-order-summary-heading {
+        text-align: center;
+        font-size: 11px;
+        font-weight: normal;
+        letter-spacing: .04rem;
+        margin: 0;
+        padding: 0 0.5rem 0 0.54rem;
+        position: absolute;
+        top: -0.35rem;
+        left: 50%;
+        transform: translateX(-50%);
+        display: inline-block;
+        width: auto;
+    }
+    .rcs_add_box {
+        padding: 15px 25px 5px;
+        margin-bottom: 22px;
+        min-height: 212px;
+        /* box-shadow: 0 5px 10px 5px #eee; */
+        position: relative;
+    }
+    .rcs_address_btn {
+        margin-right: 15px !important;
+        margin-top: 8px !important;
+    }
+    .rcs_top_select {
+        margin: 10px 5px 0!important;
+    }
+    .rcs_edit_del {
+        position: absolute;
+        right: 10px;
+        bottom: 11px;
+    }
+    .myacc_edit {
+        font-size: 16px;
+        margin-top: -5px;
+        cursor: pointer;
+    }
+    .rcs_add_box p {
+        margin-bottom: 10px;
+    }
+    .rcs_address_btn {
+        padding: 6px 9px !important;
+        margin-right: 25px;
+    }
+    /* .rcs_cart_height .MuiSelect-outlined.MuiSelect-outlined {
+        padding-right: 59px;
+    } */
+    .rcs_cart_padding span.MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1 {
+        margin-left: 10px;
+    } 
+    .rcs_cart_height {
+        width: 40%;
+        margin: 40px 0 0 auto !important;
+        padding-right: 15px !important;
+    }  
+    .rcs_cart_height .MuiPaper-root.MuiMenu-paper.MuiPopover-paper.MuiPaper-elevation8.MuiPaper-rounded {
+        height: 300px !important;
+    }
+    .rcs_cart_bottom_content.h-100 textarea#standard-multiline-flexible {
+        padding: 18px 0 0 12px !important;
+        height: 20px !important;
+    } 
+    .rcs_cart_height .MuiPaper-root.MuiMenu-paper.MuiPopover-paper.MuiPaper-elevation8.MuiPaper-rounded {
+        height: 250px;
+    }
+    .rcs_checkout_checkbox .MuiButtonBase-root {
+        padding: 9px !important;
+    }
+    .rcs_tab_content_right .MuiDivider-root:last-child {
+        display: none;
+    }
+/*checkout css*/
+/*Server css*/    
+    /* .rcs_cart_bottom_content .css-1a5icme ~ span { */
+    .rcs_cart_bottom_content .Mui-checked.css-1a5icme ~ span {
+        font-weight: 800;
+        font-family: 'Inter', sans-serif !important;
+    } 
+/*Server css*/
+/*Responsive css*/    
+    @media (min-width: 768) and (max-width: 992px) {
+        .rcs_cancel_button{
+            padding: 10px 23px !important;
+        }
+        .rcs_cart_padding span.MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1 {
+            margin-left: 5px !important;
+        }  
+        .rcs_cart_content img {
+            width: 150px !important;
+        }
+        .rcs_cart_bottom_content .MuiInputBase-input{
+            padding: 2px 0 3px !important;
+        }
+        .rcs_cart_bottom_content .MuiInputBase-multiline {
+            padding: 2px 0 3px !important;
+        }
+        .rcs_cart_height .MuiSelect-outlined.MuiSelect-outlined {
+            padding-right: 41px;
+        }
+        .rcs_cart_bottom_content .rcs_cancel_button {
+            font-size: 11px !important;
+        }
+        .rcs_cart_content h2 {
+            font-size: 14px;
+        }              
+        .rcs_cart_content1 p strong {
+            font-size: 12px;
+        }
+    }
+    @media (min-width: 320px) and (max-width: 767px) {
+        ul.rcs_top_btn {
+            display: block;
+        }   
+        ul.rcs_top_btn li {
+            margin-bottom: 10px;
+        } 
+        .rcs_Credit {
+            text-align: center;
+        }
+        .rcs_cart_main {
+            display: block !important;
+        }
+        .rcs_cart_section .p-0.pr-3.mb-4.col-md-4.col-12,.rcs_cart_section .p-0.pl-3.mb-4.col-md-4.col-12,
+        .rcs_cart_padding {
+            padding: 0 !important;
+        }
+        .rcs_custom_padding1 {
+            margin: 10px auto !important;
+            padding: 0 !important;
+        }
+        .rcs_custom_padding11 {
+            margin: 10px auto !important;
+            padding: 0 !important;
+        }
+        .rcs_cart_content1 p{
+            text-align: left;
+        }
+        .rcs_cart_height{
+            margin: 20px 0 0 18px !important;
+        }
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        .rcs_custom_padding1 {
+            margin: 10px auto !important;
+            padding: 0 10px !important;
+        }
+        .rcs_cart_content1 p {
+            text-align: left;
+        }
+        .rcs_cart_height{
+            width: 65%;
+            margin: 20px 0 0 20px !important;
+            padding-right: 15px !important;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 1199px) {
+        .rcs_cart_height{
+            width: 65%;
+            margin: 20px 0 0 auto !important;
+            padding-right: 15px !important;
+        }
+    }
+    @media (min-width: 993) and (max-width: 1024px) {
+        .rcs_cart_bottom_content .rcs_cancel_button {
+            font-size: 11px !important;
+        }
+    }    
+/*Responsive css*/
